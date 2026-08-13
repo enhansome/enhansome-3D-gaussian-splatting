@@ -1,0 +1,907 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Papers & Documentation"
+    },
+    {
+      "description": "Visit our comprehensive, searchable database of 3D Gaussian Splatting papers: Papers Database",
+      "items": [],
+      "title": "Papers Database"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Implementations"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Community Implementations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GauStudio",
+          "description": "Unified framework with multiple implementations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-11-05T08:26:09Z",
+            "owner": "GAP-LAB-CUHK-SZ",
+            "repo": "gaustudio",
+            "stars": 1760
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DriveStudio",
+          "description": "Urban scene reconstruction framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-27T08:42:40Z",
+            "owner": "ziyc",
+            "repo": "drivestudio",
+            "stars": 1245
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gaussian-splatting-lightning",
+          "description": "Derived algorithms plus an interactive web viewer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-05-25T13:10:03Z",
+            "owner": "yzslab",
+            "repo": "gaussian-splatting-lightning",
+            "stars": 1092
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pointrix",
+          "description": "Differentiable point-based rendering",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-31T07:19:53Z",
+            "owner": "pointrix-project",
+            "repo": "pointrix",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "msplat",
+          "description": "Modular differential gaussian rasterization library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Cuda",
+            "last_commit": "2024-07-28T09:03:04Z",
+            "owner": "pointrix-project",
+            "repo": "msplat",
+            "stars": 216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GSCodecStudio",
+          "description": "Compression and Dynamic splattings",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-13T06:39:12Z",
+            "owner": "JasonLSC",
+            "repo": "GSCodec_Studio",
+            "stars": 140
+          }
+        }
+      ],
+      "title": "Frameworks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Viewers & Game Engine Support"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PlayCanvas Engine",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T11:49:11Z",
+            "owner": "playcanvas",
+            "repo": "engine",
+            "stars": 16480
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unity Plugin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-10-17T07:21:38Z",
+            "owner": "aras-p",
+            "repo": "UnityGaussianSplatting",
+            "stars": 3381
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unreal Plugin (XScene-UEPlugin)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-07-30T02:58:10Z",
+            "owner": "xverse-engine",
+            "repo": "XScene-UEPlugin",
+            "stars": 1122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unity Plugin (gsplat-unity)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-02T09:17:19Z",
+            "owner": "wuyize25",
+            "repo": "gsplat-unity",
+            "stars": 270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Godot Plugin (gdgs)",
+          "description": "Real-time 3DGS rendering plugin for Godot 4.3+",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "GDScript",
+            "last_commit": "2026-07-30T03:56:24Z",
+            "owner": "ReconWorldLab",
+            "repo": "godot-gaussian-splatting",
+            "stars": 267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unreal Plugin (MLSLabsGaussianSplattingRenderer-UE)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-25T02:56:11Z",
+            "owner": "mlslabs",
+            "repo": "MLSLabsGaussianSplattingRenderer-UE",
+            "stars": 257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unity Plugin (DynGsplat-unity)",
+          "description": "For dynamic splattings",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-27T10:14:21Z",
+            "owner": "HiFi-Human",
+            "repo": "DynGsplat-unity",
+            "stars": 105
+          }
+        }
+      ],
+      "title": "Game Engines"
+    },
+    {
+      "description": "WebGL",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Splat Viewer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-16T20:20:59Z",
+            "owner": "antimatter15",
+            "repo": "splat",
+            "stars": 3056
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GaussianSplats3D",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-10-19T22:58:20Z",
+            "owner": "mkkellogg",
+            "repo": "GaussianSplats3D",
+            "stars": 2858
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gsplat.js",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-26T10:32:43Z",
+            "owner": "huggingface",
+            "repo": "gsplat.js",
+            "stars": 1653
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PlayCanvas Model Viewer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T12:26:51Z",
+            "owner": "playcanvas",
+            "repo": "model-viewer",
+            "stars": 703
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gauzilla",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-23T07:17:08Z",
+            "owner": "BladeTransformerLLC",
+            "repo": "gauzilla",
+            "stars": 634
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SuperSplat Viewer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T10:07:15Z",
+            "owner": "playcanvas",
+            "repo": "supersplat-viewer",
+            "stars": 535
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Interactive Viewer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-21T04:02:53Z",
+            "owner": "kishimisu",
+            "repo": "Gaussian-Splatting-WebGL",
+            "stars": 270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A-Frame",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-12-20T20:24:48Z",
+            "owner": "quadjr",
+            "repo": "aframe-gaussian-splatting",
+            "stars": 227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "splaTV",
+          "description": "Viewer for 4D Gaussians, with a live demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-26T07:26:11Z",
+            "owner": "antimatter15",
+            "repo": "splaTV",
+            "stars": 171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebRTC viewer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-09T20:22:40Z",
+            "owner": "dylanebert",
+            "repo": "gaussian-viewer",
+            "stars": 133
+          }
+        }
+      ],
+      "title": "Web Viewers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Nerfstudio Viser",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T11:17:41Z",
+            "owner": "viser-project",
+            "repo": "viser",
+            "stars": 2730
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "splatviz",
+          "description": "Edit the rendering code at runtime or display multiple scenes at once",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-20T14:07:22Z",
+            "owner": "Florian-Barthel",
+            "repo": "splatviz",
+            "stars": 1546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "3DGS.cpp",
+          "description": "C++/Vulkan renderer for Windows, macOS, Linux, iOS and visionOS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-05-19T22:25:35Z",
+            "owner": "shg8",
+            "repo": "3DGS.cpp",
+            "stars": 779
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenGL Viewer",
+          "description": "PyOpenGL viewer, also with official CUDA backend",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-11T06:41:04Z",
+            "owner": "limacv",
+            "repo": "GaussianSplattingViewer",
+            "stars": 448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vkgs",
+          "description": "Cross-platform C++/Vulkan renderer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-17T05:19:02Z",
+            "owner": "jaesung-cs",
+            "repo": "vkgs",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nerfstudio (gaussian_splatting branch)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-28T12:27:59Z",
+            "owner": "yzslab",
+            "repo": "nerfstudio",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jupyter notebook viewer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-17T15:25:23Z",
+            "owner": "shumash",
+            "repo": "gaussian-splatting",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Taichi Viewer",
+          "description": "Renderer with benchmarking capability",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-06T02:24:22Z",
+            "owner": "uc-vision",
+            "repo": "splat-viewer",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LiteViz-GS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-06-15T04:26:00Z",
+            "owner": "panxkun",
+            "repo": "liteviz-gs",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DearGaussianGUI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-15T03:28:40Z",
+            "owner": "leviome",
+            "repo": "DearGaussianGUI",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Desktop Viewers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Blender Add-on (KIRI)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T06:12:41Z",
+            "owner": "Kiri-Innovation",
+            "repo": "3dgs-render-blender-addon",
+            "stars": 1140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blender Add-on",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-30T14:32:18Z",
+            "owner": "ReshotAI",
+            "repo": "gaussian-splatting-blender-addon",
+            "stars": 586
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iOS Metal Viewer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2023-10-22T12:23:09Z",
+            "owner": "laanlabs",
+            "repo": "metal-splats",
+            "stars": 364
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ROS2 Support",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-19T08:22:45Z",
+            "owner": "shadygm",
+            "repo": "ROSplat",
+            "stars": 260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VR Support (OpenXR)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-10-16T16:19:29Z",
+            "owner": "hyperlogic",
+            "repo": "splatapult",
+            "stars": 229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Houdini Viewport Renderer",
+          "description": "HDK/GLSL implementation of Gaussian Splatting in Houdini",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-08-07T17:49:56Z",
+            "owner": "rubendhz",
+            "repo": "houdini-gsplat-renderer",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blender Add-on (404—GEN)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-22T16:22:33Z",
+            "owner": "404-Repo",
+            "repo": "404-gen-blender-add-on",
+            "stars": 28
+          }
+        }
+      ],
+      "title": "Native Applications"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools & Utilities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SplatTransform",
+          "description": "CLI tool for converting and editing splats",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T15:50:16Z",
+            "owner": "playcanvas",
+            "repo": "splat-transform",
+            "stars": 1290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "3DGS Converter",
+          "description": "Format conversion tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T10:35:12Z",
+            "owner": "francescofugazzi",
+            "repo": "3dgsconverter",
+            "stars": 589
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kapture",
+          "description": "Unified data format for visual localization",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-17T09:46:26Z",
+            "owner": "naver",
+            "repo": "kapture",
+            "stars": 542
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gsbox Converter",
+          "description": "PLY SPLAT SPZ SPX conversion tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-18T11:28:51Z",
+            "owner": "gotoeasy",
+            "repo": "gsbox",
+            "stars": 190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GaussForge",
+          "description": "C++/WASM-based conversion between PLY, SPZ, SPLAT, and KSPLAT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-25T01:17:33Z",
+            "owner": "3dgscloud",
+            "repo": "GaussForge",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VGGT Factor Refinement",
+          "description": "COLMAP-free pipeline using VGGT + factor graph, from video to COLMAP-format output",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-16T07:11:28Z",
+            "owner": "jashshah999",
+            "repo": "vggt-factor-refinement",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpectacularAI",
+          "description": "Conversion scripts for different 3DGS conventions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-28T17:43:42Z",
+            "owner": "SpectacularAI",
+            "repo": "point-cloud-tools",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Point Cloud Editor",
+          "description": "Web-based point cloud editing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-10-12T17:38:00Z",
+            "owner": "JohannesKrueger",
+            "repo": "pointcloudeditor",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SPZ Converter",
+          "description": "SPZ conversion tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-01-16T20:24:32Z",
+            "owner": "stytim",
+            "repo": "spz",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "splatreg",
+          "description": "pip-installable splat registration: align & merge two 3DGS scans into one SE(3)/Sim(3) frame (recovers scale), CLI + pure-PyTorch API, no manual gizmo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-25T01:42:23Z",
+            "owner": "Archerkattri",
+            "repo": "splatreg",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AURA",
+          "description": "Calibrated per-splat confidence for 3DGS assets: held-out reliability labels, isotonic calibration, and a distribution-free conformal pruning certificate with a certified LOD ladder; exports via glTF/OpenUSD/SPZ (pip install aura-splat)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-25T01:10:07Z",
+            "owner": "Archerkattri",
+            "repo": "aura",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Data Processing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SuperSplat",
+          "description": "Browser-based 3DGS editor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T11:24:10Z",
+            "owner": "playcanvas",
+            "repo": "supersplat",
+            "stars": 9841
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GSOPs for Houdini",
+          "description": "Houdini integration tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-14T19:37:02Z",
+            "owner": "cgnomads",
+            "repo": "GSOPs",
+            "stars": 613
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "camorph",
+          "description": "Camera parameter conversion",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-10T15:16:01Z",
+            "owner": "Fraunhofer-IIS",
+            "repo": "camorph",
+            "stars": 118
+          }
+        }
+      ],
+      "title": "Development Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Learning Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Discussion about gs universal format",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-10-19T22:58:20Z",
+            "owner": "mkkellogg",
+            "repo": "GaussianSplats3D",
+            "stars": 2858
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Implementation Details",
+          "description": "Technical deep dive",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-11-12T14:16:18Z",
+            "owner": "kwea123",
+            "repo": "gaussian_splatting_notes",
+            "stars": 603
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mathematical details of forward and backward passes",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-19T17:42:23Z",
+            "owner": "joeyan",
+            "repo": "gaussian_splatting",
+            "stars": 235
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mathematical Foundation",
+          "description": "Theory explanation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-11-16T04:45:01Z",
+            "owner": "chiehwangs",
+            "repo": "3d-gaussian-theory",
+            "stars": 139
+          }
+        }
+      ],
+      "title": "Blog Posts"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T13:36:58.747Z",
+    "original_repository": "MrNeRF/awesome-3D-gaussian-splatting",
+    "original_repository_sha": "16b97a27b39356fb69df9c6235f7c5e09e16ce41",
+    "enhanced_repository": "enhansome/enhansome-3D-gaussian-splatting",
+    "enhanced_repository_description": null,
+    "title": "Awesome 3D Gaussian Splatting with stars"
+  }
+}
