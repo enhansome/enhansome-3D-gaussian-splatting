@@ -117,7 +117,7 @@
                 "archived": false,
                 "id": 19696006,
                 "language": "JavaScript",
-                "last_commit": "2026-08-19T10:44:50Z",
+                "last_commit": "2026-08-19T12:49:56Z",
                 "owner": "playcanvas",
                 "repo": "engine",
                 "stars": 16524
@@ -881,7 +881,7 @@
                 "last_commit": "2026-08-13T11:24:10Z",
                 "owner": "playcanvas",
                 "repo": "supersplat",
-                "stars": 9868
+                "stars": 9869
               }
             },
             {
@@ -997,7 +997,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:05:24.352Z",
+    "last_updated": "2026-08-19T13:02:38.610Z",
     "original_repository": "MrNeRF/awesome-3D-gaussian-splatting",
     "original_repository_id": 705222810,
     "original_repository_sha": "c2bd2ef70ec9829c7225f6d1c497f6be624b3a88",
