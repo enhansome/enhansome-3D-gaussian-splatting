@@ -17,7 +17,7 @@
                 "last_commit": "2025-11-05T08:26:09Z",
                 "owner": "GAP-LAB-CUHK-SZ",
                 "repo": "gaustudio",
-                "stars": 1763
+                "stars": 1761
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2025-08-27T08:42:40Z",
                 "owner": "ziyc",
                 "repo": "drivestudio",
-                "stars": 1252
+                "stars": 1251
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-05-25T13:10:03Z",
                 "owner": "yzslab",
                 "repo": "gaussian-splatting-lightning",
-                "stars": 1096
+                "stars": 1097
               }
             },
             {
@@ -117,10 +117,10 @@
                 "archived": false,
                 "id": 19696006,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T12:26:44Z",
+                "last_commit": "2026-08-21T10:45:54Z",
                 "owner": "playcanvas",
                 "repo": "engine",
-                "stars": 16528
+                "stars": 16533
               }
             },
             {
@@ -135,7 +135,7 @@
                 "last_commit": "2025-10-17T07:21:38Z",
                 "owner": "aras-p",
                 "repo": "UnityGaussianSplatting",
-                "stars": 3385
+                "stars": 3386
               }
             },
             {
@@ -150,7 +150,7 @@
                 "last_commit": "2025-07-30T02:58:10Z",
                 "owner": "xverse-engine",
                 "repo": "XScene-UEPlugin",
-                "stars": 1123
+                "stars": 1120
               }
             },
             {
@@ -165,7 +165,7 @@
                 "last_commit": "2026-08-02T09:17:19Z",
                 "owner": "wuyize25",
                 "repo": "gsplat-unity",
-                "stars": 272
+                "stars": 273
               }
             },
             {
@@ -195,7 +195,7 @@
                 "last_commit": "2026-07-25T02:56:11Z",
                 "owner": "mlslabs",
                 "repo": "MLSLabsGaussianSplattingRenderer-UE",
-                "stars": 260
+                "stars": 261
               }
             },
             {
@@ -232,7 +232,7 @@
                 "last_commit": "2025-11-16T20:20:59Z",
                 "owner": "antimatter15",
                 "repo": "splat",
-                "stars": 3063
+                "stars": 3062
               }
             },
             {
@@ -262,7 +262,7 @@
                 "last_commit": "2026-05-26T10:32:43Z",
                 "owner": "huggingface",
                 "repo": "gsplat.js",
-                "stars": 1655
+                "stars": 1653
               }
             },
             {
@@ -382,7 +382,7 @@
                 "last_commit": "2026-08-15T09:24:43Z",
                 "owner": "playcanvas",
                 "repo": "supersplat-viewer",
-                "stars": 539
+                "stars": 540
               }
             },
             {
@@ -434,7 +434,7 @@
                 "last_commit": "2026-08-16T20:59:40Z",
                 "owner": "viser-project",
                 "repo": "viser",
-                "stars": 2740
+                "stars": 2741
               }
             },
             {
@@ -464,7 +464,7 @@
                 "last_commit": "2025-05-19T22:25:35Z",
                 "owner": "shg8",
                 "repo": "3DGS.cpp",
-                "stars": 780
+                "stars": 781
               }
             },
             {
@@ -588,10 +588,10 @@
                 "archived": false,
                 "id": 863919080,
                 "language": "Python",
-                "last_commit": "2026-08-13T06:12:41Z",
+                "last_commit": "2026-08-21T11:46:06Z",
                 "owner": "Kiri-Innovation",
                 "repo": "3dgs-render-blender-addon",
-                "stars": 1147
+                "stars": 1150
               }
             },
             {
@@ -606,7 +606,7 @@
                 "last_commit": "2024-08-30T14:32:18Z",
                 "owner": "ReshotAI",
                 "repo": "gaussian-splatting-blender-addon",
-                "stars": 585
+                "stars": 586
               }
             },
             {
@@ -709,7 +709,7 @@
                 "last_commit": "2026-08-10T15:50:16Z",
                 "owner": "playcanvas",
                 "repo": "splat-transform",
-                "stars": 1293
+                "stars": 1294
               }
             },
             {
@@ -799,7 +799,7 @@
                 "last_commit": "2026-03-28T17:43:42Z",
                 "owner": "SpectacularAI",
                 "repo": "point-cloud-tools",
-                "stars": 47
+                "stars": 48
               }
             },
             {
@@ -881,7 +881,7 @@
                 "last_commit": "2026-08-13T11:24:10Z",
                 "owner": "playcanvas",
                 "repo": "supersplat",
-                "stars": 9875
+                "stars": 9881
               }
             },
             {
@@ -997,7 +997,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T13:04:42.568Z",
+    "last_updated": "2026-08-21T13:03:45.281Z",
     "original_repository": "MrNeRF/awesome-3D-gaussian-splatting",
     "original_repository_id": 705222810,
     "original_repository_sha": "c2bd2ef70ec9829c7225f6d1c497f6be624b3a88",
