@@ -120,7 +120,7 @@
                 "last_commit": "2026-08-22T02:29:06Z",
                 "owner": "playcanvas",
                 "repo": "engine",
-                "stars": 16536
+                "stars": 16540
               }
             },
             {
@@ -434,7 +434,7 @@
                 "last_commit": "2026-08-16T20:59:40Z",
                 "owner": "viser-project",
                 "repo": "viser",
-                "stars": 2742
+                "stars": 2743
               }
             },
             {
@@ -709,7 +709,7 @@
                 "last_commit": "2026-08-10T15:50:16Z",
                 "owner": "playcanvas",
                 "repo": "splat-transform",
-                "stars": 1294
+                "stars": 1296
               }
             },
             {
@@ -881,7 +881,7 @@
                 "last_commit": "2026-08-13T11:24:10Z",
                 "owner": "playcanvas",
                 "repo": "supersplat",
-                "stars": 9884
+                "stars": 9888
               }
             },
             {
@@ -997,7 +997,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T12:55:06.289Z",
+    "last_updated": "2026-08-23T12:55:59.324Z",
     "original_repository": "MrNeRF/awesome-3D-gaussian-splatting",
     "original_repository_id": 705222810,
     "original_repository_sha": "c2bd2ef70ec9829c7225f6d1c497f6be624b3a88",
