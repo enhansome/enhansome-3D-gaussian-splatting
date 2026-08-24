@@ -7,6 +7,275 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Original Gaussian Splatting",
+              "description": "The reference implementation by the original authors",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 662028682,
+                "language": "Python",
+                "last_commit": "2025-10-17T14:28:15Z",
+                "owner": "graphdeco-inria",
+                "repo": "gaussian-splatting",
+                "stars": 23006
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Official Reference"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LichtFeld Studio",
+              "description": "(lichtfeld.io) C++/CUDA GPL-3.0 The modular workstation for 3D Gaussian Splatting — train, inspect, edit, automate, and export from a single native app",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 672651553,
+                "language": "C++",
+                "last_commit": "2026-08-24T13:24:37Z",
+                "owner": "MrNeRF",
+                "repo": "LichtFeld-Studio",
+                "stars": 3570
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nerfstudio gsplat",
+              "description": "Python/CUDA Apache-2.0 Integration with Nerfstudio",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 683223775,
+                "language": "Python",
+                "last_commit": "2026-08-20T20:44:25Z",
+                "owner": "nerfstudio-project",
+                "repo": "gsplat",
+                "stars": 5573
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenSplat",
+              "description": "C++/CPU/GPU AGPL-3.0 Cross-platform solution",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 747402960,
+                "language": "C++",
+                "last_commit": "2026-08-20T06:45:34Z",
+                "owner": "WebODM",
+                "repo": "OpenSplat",
+                "stars": 2158
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Taichi 3D GS",
+              "description": "Taichi Apache-2.0 Taichi-based implementation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 637627011,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-03-12T08:59:10Z",
+                "owner": "wanmeihuali",
+                "repo": "taichi_3d_gaussian_splatting",
+                "stars": 754
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "taichi-splatting",
+              "description": "Taichi/PyTorch Apache-2.0 Modular rasterizer for Taichi and PyTorch",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 732708386,
+                "language": "Python",
+                "last_commit": "2025-11-25T10:36:59Z",
+                "owner": "uc-vision",
+                "repo": "taichi-splatting",
+                "stars": 120
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Grendel Distributed 3DGS",
+              "description": "Python/CUDA Apache-2.0 Multi-GPU distributed training",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 728471394,
+                "language": "Python",
+                "last_commit": "2025-09-24T18:38:26Z",
+                "owner": "nyu-systems",
+                "repo": "Grendel-GS",
+                "stars": 682
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Warp 3DGS",
+              "description": "Warp/Python AGPL-3.0 Warp-based implementation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 813181415,
+                "language": "Python",
+                "last_commit": "2025-09-28T13:11:25Z",
+                "owner": "guoriyue",
+                "repo": "3dgs-warp-scratch",
+                "stars": 284
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RI3D",
+              "description": "Python/CUDA Unlicense Few-shot gaussian splatting pipeline",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1200692880,
+                "language": "Python",
+                "last_commit": "2026-05-10T18:59:17Z",
+                "owner": "Asus-Monitor",
+                "repo": "ri3d-impl",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gaussian_splatting",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 745697813,
+                "language": "Python",
+                "last_commit": "2025-09-19T17:42:23Z",
+                "owner": "joeyan",
+                "repo": "gaussian_splatting",
+                "stars": 236
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Readable implementation with a written derivation of the math",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 745697813,
+                "language": "Python",
+                "last_commit": "2025-09-19T17:42:23Z",
+                "owner": "joeyan",
+                "repo": "gaussian_splatting",
+                "stars": 236
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "3d-gaussian-splatting",
+              "description": "Python/CUDA MIT Compact reimplementation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 653697786,
+                "language": "Python",
+                "last_commit": "2024-10-25T06:05:28Z",
+                "owner": "WangFeng18",
+                "repo": "3d-gaussian-splatting",
+                "stars": 370
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gaussian_splatting_3d",
+              "description": "Python/CUDA Early community reimplementation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 641176255,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-07-27T12:51:37Z",
+                "owner": "heheyas",
+                "repo": "gaussian_splatting_3d",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "My-exp-Gaussians",
+              "description": "Python/CUDA Enhances the ability of 3D Gaussians to model complex scenes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 730734096,
+                "language": "Python",
+                "last_commit": "2024-03-26T07:30:21Z",
+                "owner": "ingra14m",
+                "repo": "My-exp-Gaussian",
+                "stars": 125
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "360-gaussian-splatting",
+              "description": "Python Trains splats directly from 360° images",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 735599529,
+                "language": "Python",
+                "last_commit": "2024-09-29T10:20:58Z",
+                "owner": "inuex35",
+                "repo": "360-gaussian-splatting",
+                "stars": 225
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "2D Gaussian Splatting",
+              "description": "Jupyter MIT Notebook walkthrough of 2D gaussian splatting",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 706121470,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-03-03T23:32:46Z",
+                "owner": "OutofAi",
+                "repo": "2D-Gaussian-Splatting",
+                "stars": 454
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DGSO",
+              "description": "Python MIT Style transfer applied during gaussian optimization",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 783006797,
+                "language": "Python",
+                "last_commit": "2024-05-09T20:05:25Z",
+                "owner": "An-u-rag",
+                "repo": "stylized-gaussian-splatting",
+                "stars": 30
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Community Implementations"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "GauStudio",
               "description": "Unified framework with multiple implementations",
               "children": [],
@@ -120,7 +389,7 @@
                 "last_commit": "2026-08-24T13:01:01Z",
                 "owner": "playcanvas",
                 "repo": "engine",
-                "stars": 16550
+                "stars": 16551
               }
             },
             {
@@ -379,7 +648,7 @@
                 "archived": false,
                 "id": 954602512,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T11:27:44Z",
+                "last_commit": "2026-08-24T13:51:18Z",
                 "owner": "playcanvas",
                 "repo": "supersplat-viewer",
                 "stars": 541
@@ -754,7 +1023,7 @@
                 "last_commit": "2026-06-18T11:28:51Z",
                 "owner": "gotoeasy",
                 "repo": "gsbox",
-                "stars": 193
+                "stars": 194
               }
             },
             {
@@ -997,7 +1266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:06:21.895Z",
+    "last_updated": "2026-08-24T13:56:13.766Z",
     "original_repository": "MrNeRF/awesome-3D-gaussian-splatting",
     "original_repository_id": 705222810,
     "original_repository_sha": "c2bd2ef70ec9829c7225f6d1c497f6be624b3a88",
