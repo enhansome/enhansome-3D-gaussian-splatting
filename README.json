@@ -17,7 +17,7 @@
                 "last_commit": "2025-10-17T14:28:15Z",
                 "owner": "graphdeco-inria",
                 "repo": "gaussian-splatting",
-                "stars": 23006
+                "stars": 23011
               }
             }
           ],
@@ -36,10 +36,10 @@
                 "archived": false,
                 "id": 672651553,
                 "language": "C++",
-                "last_commit": "2026-08-24T13:24:37Z",
+                "last_commit": "2026-08-25T05:30:06Z",
                 "owner": "MrNeRF",
                 "repo": "LichtFeld-Studio",
-                "stars": 3570
+                "stars": 3575
               }
             },
             {
@@ -54,7 +54,7 @@
                 "last_commit": "2026-08-20T20:44:25Z",
                 "owner": "nerfstudio-project",
                 "repo": "gsplat",
-                "stars": 5573
+                "stars": 5577
               }
             },
             {
@@ -69,7 +69,7 @@
                 "last_commit": "2026-08-20T06:45:34Z",
                 "owner": "WebODM",
                 "repo": "OpenSplat",
-                "stars": 2158
+                "stars": 2159
               }
             },
             {
@@ -195,7 +195,7 @@
             {
               "node_type": "item",
               "title": "gaussian_splatting_3d",
-              "description": "Python/CUDA Early community reimplementation",
+              "description": "Python/CUDA  Early community reimplementation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -210,7 +210,7 @@
             {
               "node_type": "item",
               "title": "My-exp-Gaussians",
-              "description": "Python/CUDA Enhances the ability of 3D Gaussians to model complex scenes",
+              "description": "Python/CUDA  Enhances the ability of 3D Gaussians to model complex scenes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -225,7 +225,7 @@
             {
               "node_type": "item",
               "title": "360-gaussian-splatting",
-              "description": "Python Trains splats directly from 360° images",
+              "description": "Python  Trains splats directly from 360° images",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -301,7 +301,7 @@
                 "last_commit": "2025-08-27T08:42:40Z",
                 "owner": "ziyc",
                 "repo": "drivestudio",
-                "stars": 1252
+                "stars": 1253
               }
             },
             {
@@ -386,10 +386,10 @@
                 "archived": false,
                 "id": 19696006,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T13:01:01Z",
+                "last_commit": "2026-08-25T02:31:20Z",
                 "owner": "playcanvas",
                 "repo": "engine",
-                "stars": 16551
+                "stars": 16554
               }
             },
             {
@@ -516,7 +516,7 @@
                 "last_commit": "2025-10-19T22:58:20Z",
                 "owner": "mkkellogg",
                 "repo": "GaussianSplats3D",
-                "stars": 2868
+                "stars": 2870
               }
             },
             {
@@ -531,7 +531,7 @@
                 "last_commit": "2026-05-26T10:32:43Z",
                 "owner": "huggingface",
                 "repo": "gsplat.js",
-                "stars": 1653
+                "stars": 1654
               }
             },
             {
@@ -648,7 +648,7 @@
                 "archived": false,
                 "id": 954602512,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T13:51:18Z",
+                "last_commit": "2026-08-24T20:31:25Z",
                 "owner": "playcanvas",
                 "repo": "supersplat-viewer",
                 "stars": 541
@@ -703,7 +703,7 @@
                 "last_commit": "2026-08-24T07:21:13Z",
                 "owner": "viser-project",
                 "repo": "viser",
-                "stars": 2746
+                "stars": 2747
               }
             },
             {
@@ -860,7 +860,7 @@
                 "last_commit": "2026-08-21T11:46:06Z",
                 "owner": "Kiri-Innovation",
                 "repo": "3dgs-render-blender-addon",
-                "stars": 1155
+                "stars": 1156
               }
             },
             {
@@ -875,7 +875,7 @@
                 "last_commit": "2024-08-30T14:32:18Z",
                 "owner": "ReshotAI",
                 "repo": "gaussian-splatting-blender-addon",
-                "stars": 588
+                "stars": 587
               }
             },
             {
@@ -975,7 +975,7 @@
                 "archived": false,
                 "id": 905829672,
                 "language": "TypeScript",
-                "last_commit": "2026-08-10T15:50:16Z",
+                "last_commit": "2026-08-24T21:29:17Z",
                 "owner": "playcanvas",
                 "repo": "splat-transform",
                 "stars": 1298
@@ -1150,7 +1150,7 @@
                 "last_commit": "2026-08-13T11:24:10Z",
                 "owner": "playcanvas",
                 "repo": "supersplat",
-                "stars": 9892
+                "stars": 9893
               }
             },
             {
@@ -1208,7 +1208,7 @@
                 "last_commit": "2025-10-19T22:58:20Z",
                 "owner": "mkkellogg",
                 "repo": "GaussianSplats3D",
-                "stars": 2868
+                "stars": 2870
               }
             },
             {
@@ -1266,7 +1266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:56:13.766Z",
+    "last_updated": "2026-08-25T05:49:19.825Z",
     "original_repository": "MrNeRF/awesome-3D-gaussian-splatting",
     "original_repository_id": 705222810,
     "original_repository_sha": "c2bd2ef70ec9829c7225f6d1c497f6be624b3a88",
