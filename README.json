@@ -17,7 +17,7 @@
                 "last_commit": "2025-10-17T14:28:15Z",
                 "owner": "graphdeco-inria",
                 "repo": "gaussian-splatting",
-                "stars": 23014
+                "stars": 23300
               }
             }
           ],
@@ -36,10 +36,10 @@
                 "archived": false,
                 "id": 672651553,
                 "language": "C++",
-                "last_commit": "2026-08-25T11:14:29Z",
+                "last_commit": "2026-08-26T12:53:12Z",
                 "owner": "MrNeRF",
                 "repo": "LichtFeld-Studio",
-                "stars": 3576
+                "stars": 3592
               }
             },
             {
@@ -54,7 +54,7 @@
                 "last_commit": "2026-08-20T20:44:25Z",
                 "owner": "nerfstudio-project",
                 "repo": "gsplat",
-                "stars": 5579
+                "stars": 5587
               }
             },
             {
@@ -69,7 +69,7 @@
                 "last_commit": "2026-08-20T06:45:34Z",
                 "owner": "WebODM",
                 "repo": "OpenSplat",
-                "stars": 2159
+                "stars": 2160
               }
             },
             {
@@ -114,7 +114,7 @@
                 "last_commit": "2025-09-24T18:38:26Z",
                 "owner": "nyu-systems",
                 "repo": "Grendel-GS",
-                "stars": 682
+                "stars": 681
               }
             },
             {
@@ -286,7 +286,7 @@
                 "last_commit": "2025-11-05T08:26:09Z",
                 "owner": "GAP-LAB-CUHK-SZ",
                 "repo": "gaustudio",
-                "stars": 1761
+                "stars": 1762
               }
             },
             {
@@ -301,7 +301,7 @@
                 "last_commit": "2025-08-27T08:42:40Z",
                 "owner": "ziyc",
                 "repo": "drivestudio",
-                "stars": 1253
+                "stars": 1254
               }
             },
             {
@@ -316,7 +316,7 @@
                 "last_commit": "2026-05-25T13:10:03Z",
                 "owner": "yzslab",
                 "repo": "gaussian-splatting-lightning",
-                "stars": 1100
+                "stars": 1101
               }
             },
             {
@@ -346,7 +346,7 @@
                 "last_commit": "2024-07-28T09:03:04Z",
                 "owner": "pointrix-project",
                 "repo": "msplat",
-                "stars": 216
+                "stars": 217
               }
             },
             {
@@ -386,10 +386,10 @@
                 "archived": false,
                 "id": 19696006,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T13:02:25Z",
+                "last_commit": "2026-08-26T10:19:27Z",
                 "owner": "playcanvas",
                 "repo": "engine",
-                "stars": 16554
+                "stars": 16563
               }
             },
             {
@@ -446,10 +446,10 @@
                 "archived": false,
                 "id": 1178198582,
                 "language": "GDScript",
-                "last_commit": "2026-08-23T15:37:23Z",
+                "last_commit": "2026-08-25T16:04:09Z",
                 "owner": "ReconWorldLab",
                 "repo": "godot-gaussian-splatting",
-                "stars": 271
+                "stars": 270
               }
             },
             {
@@ -464,7 +464,7 @@
                 "last_commit": "2026-07-25T02:56:11Z",
                 "owner": "mlslabs",
                 "repo": "MLSLabsGaussianSplattingRenderer-UE",
-                "stars": 261
+                "stars": 264
               }
             },
             {
@@ -531,7 +531,7 @@
                 "last_commit": "2026-05-26T10:32:43Z",
                 "owner": "huggingface",
                 "repo": "gsplat.js",
-                "stars": 1655
+                "stars": 1658
               }
             },
             {
@@ -636,7 +636,7 @@
                 "last_commit": "2024-03-13T18:06:45Z",
                 "owner": "cvlab-epfl",
                 "repo": "gaussian-splatting-web",
-                "stars": 666
+                "stars": 667
               }
             },
             {
@@ -648,10 +648,10 @@
                 "archived": false,
                 "id": 954602512,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T13:02:25Z",
+                "last_commit": "2026-08-25T16:29:19Z",
                 "owner": "playcanvas",
                 "repo": "supersplat-viewer",
-                "stars": 541
+                "stars": 542
               }
             },
             {
@@ -700,7 +700,7 @@
                 "archived": false,
                 "id": 566568196,
                 "language": "Python",
-                "last_commit": "2026-08-24T07:21:13Z",
+                "last_commit": "2026-08-26T10:44:04Z",
                 "owner": "viser-project",
                 "repo": "viser",
                 "stars": 2747
@@ -718,7 +718,7 @@
                 "last_commit": "2026-05-20T14:07:22Z",
                 "owner": "Florian-Barthel",
                 "repo": "splatviz",
-                "stars": 1547
+                "stars": 1548
               }
             },
             {
@@ -857,10 +857,10 @@
                 "archived": false,
                 "id": 863919080,
                 "language": "Python",
-                "last_commit": "2026-08-21T11:46:06Z",
+                "last_commit": "2026-08-26T08:12:36Z",
                 "owner": "Kiri-Innovation",
                 "repo": "3dgs-render-blender-addon",
-                "stars": 1157
+                "stars": 1156
               }
             },
             {
@@ -975,10 +975,10 @@
                 "archived": false,
                 "id": 905829672,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T09:25:29Z",
+                "last_commit": "2026-08-25T13:18:00Z",
                 "owner": "playcanvas",
                 "repo": "splat-transform",
-                "stars": 1299
+                "stars": 1300
               }
             },
             {
@@ -1053,7 +1053,7 @@
                 "last_commit": "2026-06-16T07:11:28Z",
                 "owner": "jashshah999",
                 "repo": "vggt-factor-refinement",
-                "stars": 49
+                "stars": 50
               }
             },
             {
@@ -1128,7 +1128,7 @@
                 "last_commit": "2026-07-25T01:10:07Z",
                 "owner": "Archerkattri",
                 "repo": "aura",
-                "stars": 2
+                "stars": 3
               }
             }
           ],
@@ -1147,10 +1147,10 @@
                 "archived": false,
                 "id": 707265118,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T10:22:34Z",
+                "last_commit": "2026-08-26T13:06:29Z",
                 "owner": "playcanvas",
                 "repo": "supersplat",
-                "stars": 9896
+                "stars": 9902
               }
             },
             {
@@ -1266,7 +1266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T13:04:21.583Z",
+    "last_updated": "2026-08-26T13:09:10.017Z",
     "original_repository": "MrNeRF/awesome-3D-gaussian-splatting",
     "original_repository_id": 705222810,
     "original_repository_sha": "c2bd2ef70ec9829c7225f6d1c497f6be624b3a88",
