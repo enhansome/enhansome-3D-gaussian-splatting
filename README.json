@@ -17,8 +17,9 @@
                 "last_commit": "2025-10-17T14:28:15Z",
                 "owner": "graphdeco-inria",
                 "repo": "gaussian-splatting",
-                "stars": 23491
-              }
+                "stars": 23615
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             }
           ],
           "description": null,
@@ -36,11 +37,12 @@
                 "archived": false,
                 "id": 672651553,
                 "language": "C++",
-                "last_commit": "2026-08-27T18:00:51Z",
+                "last_commit": "2026-08-28T19:21:27Z",
                 "owner": "MrNeRF",
                 "repo": "LichtFeld-Studio",
-                "stars": 3611
-              }
+                "stars": 3619
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -54,8 +56,9 @@
                 "last_commit": "2026-08-20T20:44:25Z",
                 "owner": "nerfstudio-project",
                 "repo": "gsplat",
-                "stars": 5597
-              }
+                "stars": 5603
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -66,11 +69,12 @@
                 "archived": false,
                 "id": 747402960,
                 "language": "C++",
-                "last_commit": "2026-08-20T06:45:34Z",
+                "last_commit": "2026-08-28T16:27:55Z",
                 "owner": "WebODM",
                 "repo": "OpenSplat",
                 "stars": 2167
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "wanmeihuali",
                 "repo": "taichi_3d_gaussian_splatting",
                 "stars": 754
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "uc-vision",
                 "repo": "taichi-splatting",
                 "stars": 120
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "nyu-systems",
                 "repo": "Grendel-GS",
                 "stars": 681
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "guoriyue",
                 "repo": "3dgs-warp-scratch",
                 "stars": 284
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "Asus-Monitor",
                 "repo": "ri3d-impl",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "joeyan",
                 "repo": "gaussian_splatting",
                 "stars": 236
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "joeyan",
                 "repo": "gaussian_splatting",
                 "stars": 236
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "WangFeng18",
                 "repo": "3d-gaussian-splatting",
                 "stars": 370
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -205,7 +217,8 @@
                 "owner": "heheyas",
                 "repo": "gaussian_splatting_3d",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -220,7 +233,8 @@
                 "owner": "ingra14m",
                 "repo": "My-exp-Gaussian",
                 "stars": 125
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -235,7 +249,8 @@
                 "owner": "inuex35",
                 "repo": "360-gaussian-splatting",
                 "stars": 225
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -250,7 +265,8 @@
                 "owner": "OutofAi",
                 "repo": "2D-Gaussian-Splatting",
                 "stars": 454
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -265,7 +281,8 @@
                 "owner": "An-u-rag",
                 "repo": "stylized-gaussian-splatting",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             }
           ],
           "description": null,
@@ -287,7 +304,8 @@
                 "owner": "GAP-LAB-CUHK-SZ",
                 "repo": "gaustudio",
                 "stars": 1762
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -302,7 +320,8 @@
                 "owner": "ziyc",
                 "repo": "drivestudio",
                 "stars": 1254
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -317,7 +336,8 @@
                 "owner": "yzslab",
                 "repo": "gaussian-splatting-lightning",
                 "stars": 1102
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -332,7 +352,8 @@
                 "owner": "pointrix-project",
                 "repo": "pointrix",
                 "stars": 218
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -347,7 +368,8 @@
                 "owner": "pointrix-project",
                 "repo": "msplat",
                 "stars": 217
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -362,7 +384,8 @@
                 "owner": "JasonLSC",
                 "repo": "GSCodec_Studio",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             }
           ],
           "description": null,
@@ -386,11 +409,12 @@
                 "archived": false,
                 "id": 19696006,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T15:05:48Z",
+                "last_commit": "2026-08-28T21:34:28Z",
                 "owner": "playcanvas",
                 "repo": "engine",
-                "stars": 16572
-              }
+                "stars": 16576
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -404,8 +428,9 @@
                 "last_commit": "2025-10-17T07:21:38Z",
                 "owner": "aras-p",
                 "repo": "UnityGaussianSplatting",
-                "stars": 3391
-              }
+                "stars": 3393
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -420,7 +445,8 @@
                 "owner": "xverse-engine",
                 "repo": "XScene-UEPlugin",
                 "stars": 1122
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -435,7 +461,8 @@
                 "owner": "wuyize25",
                 "repo": "gsplat-unity",
                 "stars": 275
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -449,8 +476,9 @@
                 "last_commit": "2026-08-25T16:04:09Z",
                 "owner": "ReconWorldLab",
                 "repo": "godot-gaussian-splatting",
-                "stars": 271
-              }
+                "stars": 273
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -461,11 +489,12 @@
                 "archived": false,
                 "id": 1153190904,
                 "language": "C++",
-                "last_commit": "2026-07-25T02:56:11Z",
+                "last_commit": "2026-08-28T08:34:19Z",
                 "owner": "mlslabs",
                 "repo": "MLSLabsGaussianSplattingRenderer-UE",
                 "stars": 264
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -480,7 +509,8 @@
                 "owner": "HiFi-Human",
                 "repo": "DynGsplat-unity",
                 "stars": 107
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             }
           ],
           "description": null,
@@ -502,7 +532,8 @@
                 "owner": "antimatter15",
                 "repo": "splat",
                 "stars": 3066
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -516,8 +547,9 @@
                 "last_commit": "2025-10-19T22:58:20Z",
                 "owner": "mkkellogg",
                 "repo": "GaussianSplats3D",
-                "stars": 2872
-              }
+                "stars": 2874
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -531,8 +563,9 @@
                 "last_commit": "2026-05-26T10:32:43Z",
                 "owner": "huggingface",
                 "repo": "gsplat.js",
-                "stars": 1659
-              }
+                "stars": 1660
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -546,8 +579,9 @@
                 "last_commit": "2025-05-23T07:17:08Z",
                 "owner": "BladeTransformerLLC",
                 "repo": "gauzilla",
-                "stars": 635
-              }
+                "stars": 636
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -562,7 +596,8 @@
                 "owner": "kishimisu",
                 "repo": "Gaussian-Splatting-WebGL",
                 "stars": 270
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -577,7 +612,8 @@
                 "owner": "quadjr",
                 "repo": "aframe-gaussian-splatting",
                 "stars": 227
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -592,7 +628,8 @@
                 "owner": "antimatter15",
                 "repo": "splaTV",
                 "stars": 171
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -607,7 +644,8 @@
                 "owner": "dylanebert",
                 "repo": "gaussian-viewer",
                 "stars": 133
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -621,8 +659,9 @@
                 "last_commit": "2026-08-13T15:46:41Z",
                 "owner": "playcanvas",
                 "repo": "model-viewer",
-                "stars": 705
-              }
+                "stars": 706
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -637,7 +676,8 @@
                 "owner": "cvlab-epfl",
                 "repo": "gaussian-splatting-web",
                 "stars": 667
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -651,8 +691,9 @@
                 "last_commit": "2026-08-27T14:56:16Z",
                 "owner": "playcanvas",
                 "repo": "supersplat-viewer",
-                "stars": 545
-              }
+                "stars": 546
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -667,7 +708,8 @@
                 "owner": "KeKsBoTer",
                 "repo": "web-splat",
                 "stars": 295
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -682,7 +724,8 @@
                 "owner": "MarcusAndreasSvensson",
                 "repo": "gaussian-splatting-webgpu",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             }
           ],
           "description": "WebGL\nWebGPU",
@@ -703,8 +746,9 @@
                 "last_commit": "2026-08-27T15:17:42Z",
                 "owner": "viser-project",
                 "repo": "viser",
-                "stars": 2750
-              }
+                "stars": 2751
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -719,7 +763,8 @@
                 "owner": "Florian-Barthel",
                 "repo": "splatviz",
                 "stars": 1548
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -734,7 +779,8 @@
                 "owner": "shg8",
                 "repo": "3DGS.cpp",
                 "stars": 781
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -749,7 +795,8 @@
                 "owner": "limacv",
                 "repo": "GaussianSplattingViewer",
                 "stars": 449
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -764,7 +811,8 @@
                 "owner": "jaesung-cs",
                 "repo": "vkgs",
                 "stars": 160
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -779,7 +827,8 @@
                 "owner": "yzslab",
                 "repo": "nerfstudio",
                 "stars": 157
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -794,7 +843,8 @@
                 "owner": "shumash",
                 "repo": "gaussian-splatting",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -809,7 +859,8 @@
                 "owner": "uc-vision",
                 "repo": "splat-viewer",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -824,7 +875,8 @@
                 "owner": "panxkun",
                 "repo": "liteviz-gs",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -839,7 +891,8 @@
                 "owner": "leviome",
                 "repo": "DearGaussianGUI",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             }
           ],
           "description": null,
@@ -857,11 +910,12 @@
                 "archived": false,
                 "id": 863919080,
                 "language": "Python",
-                "last_commit": "2026-08-26T08:12:36Z",
+                "last_commit": "2026-08-28T11:26:58Z",
                 "owner": "Kiri-Innovation",
                 "repo": "3dgs-render-blender-addon",
-                "stars": 1157
-              }
+                "stars": 1160
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -876,7 +930,8 @@
                 "owner": "ReshotAI",
                 "repo": "gaussian-splatting-blender-addon",
                 "stars": 587
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -891,7 +946,8 @@
                 "owner": "laanlabs",
                 "repo": "metal-splats",
                 "stars": 363
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -906,7 +962,8 @@
                 "owner": "shadygm",
                 "repo": "ROSplat",
                 "stars": 260
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -920,8 +977,9 @@
                 "last_commit": "2024-10-16T16:19:29Z",
                 "owner": "hyperlogic",
                 "repo": "splatapult",
-                "stars": 229
-              }
+                "stars": 231
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -936,7 +994,8 @@
                 "owner": "rubendhz",
                 "repo": "houdini-gsplat-renderer",
                 "stars": 120
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -951,7 +1010,24 @@
                 "owner": "404-Repo",
                 "repo": "404-gen-blender-add-on",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Splat Local",
+              "description": "Video-to-3DGS pipeline running fully locally on Apple Silicon (COLMAP/GLOMAP poses, Metal-native training via Brush), with training checkpoints streamed live into a browser viewer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1287928192,
+                "language": "Python",
+                "last_commit": "2026-08-28T05:08:44Z",
+                "owner": "michael-L-i",
+                "repo": "splat-local",
+                "stars": 4
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             }
           ],
           "description": null,
@@ -979,7 +1055,8 @@
                 "owner": "playcanvas",
                 "repo": "splat-transform",
                 "stars": 1302
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -994,7 +1071,8 @@
                 "owner": "francescofugazzi",
                 "repo": "3dgsconverter",
                 "stars": 594
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -1009,7 +1087,8 @@
                 "owner": "naver",
                 "repo": "kapture",
                 "stars": 542
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -1024,7 +1103,8 @@
                 "owner": "gotoeasy",
                 "repo": "gsbox",
                 "stars": 194
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -1039,7 +1119,8 @@
                 "owner": "3dgscloud",
                 "repo": "GaussForge",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -1054,7 +1135,8 @@
                 "owner": "jashshah999",
                 "repo": "vggt-factor-refinement",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -1069,7 +1151,8 @@
                 "owner": "SpectacularAI",
                 "repo": "point-cloud-tools",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -1084,7 +1167,8 @@
                 "owner": "JohannesKrueger",
                 "repo": "pointcloudeditor",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -1099,7 +1183,8 @@
                 "owner": "stytim",
                 "repo": "spz",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -1114,7 +1199,8 @@
                 "owner": "Archerkattri",
                 "repo": "splatreg",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -1129,7 +1215,8 @@
                 "owner": "Archerkattri",
                 "repo": "aura",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             }
           ],
           "description": null,
@@ -1150,8 +1237,9 @@
                 "last_commit": "2026-08-27T10:31:03Z",
                 "owner": "playcanvas",
                 "repo": "supersplat",
-                "stars": 9909
-              }
+                "stars": 9916
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -1166,7 +1254,8 @@
                 "owner": "cgnomads",
                 "repo": "GSOPs",
                 "stars": 619
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -1181,7 +1270,8 @@
                 "owner": "Fraunhofer-IIS",
                 "repo": "camorph",
                 "stars": 118
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             }
           ],
           "description": null,
@@ -1208,8 +1298,9 @@
                 "last_commit": "2025-10-19T22:58:20Z",
                 "owner": "mkkellogg",
                 "repo": "GaussianSplats3D",
-                "stars": 2872
-              }
+                "stars": 2874
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -1224,7 +1315,8 @@
                 "owner": "kwea123",
                 "repo": "gaussian_splatting_notes",
                 "stars": 603
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -1239,7 +1331,8 @@
                 "owner": "joeyan",
                 "repo": "gaussian_splatting",
                 "stars": 236
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             },
             {
               "node_type": "item",
@@ -1254,7 +1347,8 @@
                 "owner": "chiehwangs",
                 "repo": "3d-gaussian-theory",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
             }
           ],
           "description": null,
@@ -1266,17 +1360,17 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:11:51.275Z",
+    "last_updated": "2026-08-28T22:12:48.083Z",
     "original_repository_info": {
       "archived": false,
       "id": 705222810,
       "language": "Python",
-      "last_commit": "2026-08-18T09:59:38Z",
+      "last_commit": "2026-08-28T07:43:59Z",
       "owner": "MrNeRF",
       "repo": "awesome-3D-gaussian-splatting",
-      "stars": 8840
+      "stars": 8841
     },
-    "original_repository_sha": "c2bd2ef70ec9829c7225f6d1c497f6be624b3a88",
+    "original_repository_sha": "be34eea50e52c1b9835fd53c6ed022ee0834d19c",
     "enhanced_repository": "enhansome/enhansome-3D-gaussian-splatting",
     "enhanced_repository_description": null,
     "title": "Awesome 3D Gaussian Splatting with stars"
