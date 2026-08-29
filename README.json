@@ -12,12 +12,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Original reference implementation of \"3D Gaussian Splatting for Real-Time Radiance Field Rendering\"",
+                "homepage": "https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/",
                 "id": 662028682,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-10-17T14:28:15Z",
+                "open_issues": 713,
                 "owner": "graphdeco-inria",
                 "repo": "gaussian-splatting",
-                "stars": 23615
+                "stars": 23633,
+                "topics": [
+                  "computer-graphics",
+                  "computer-vision",
+                  "radiance-field"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             }
@@ -35,12 +44,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Train, inspect, edit, automate, and export 3D Gaussian Splatting scenes from a single native application.",
+                "homepage": "https://lichtfeld.io",
                 "id": 672651553,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T19:21:27Z",
+                "open_issues": 205,
                 "owner": "MrNeRF",
                 "repo": "LichtFeld-Studio",
-                "stars": 3619
+                "stars": 3619,
+                "topics": [
+                  "computer-graphics",
+                  "computer-vision",
+                  "cuda",
+                  "gaussian-splatting",
+                  "optimization"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -51,12 +71,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CUDA accelerated rasterization of gaussian splatting",
+                "homepage": "https://docs.gsplat.studio/",
                 "id": 683223775,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T20:44:25Z",
+                "open_issues": 361,
                 "owner": "nerfstudio-project",
                 "repo": "gsplat",
-                "stars": 5603
+                "stars": 5604,
+                "topics": [
+                  "gaussian-splatting"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -67,12 +94,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Production-grade 3D gaussian splatting with CPU/GPU support for Windows, Mac and Linux 💦",
+                "homepage": null,
                 "id": 747402960,
                 "language": "C++",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-28T16:27:55Z",
+                "open_issues": 16,
                 "owner": "WebODM",
                 "repo": "OpenSplat",
-                "stars": 2167
+                "stars": 2167,
+                "topics": [
+                  "3d",
+                  "drones",
+                  "gaussian",
+                  "radiance-field",
+                  "splats",
+                  "splatting"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -83,12 +122,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An unofficial implementation of paper 3D Gaussian Splatting for Real-Time Radiance Field Rendering by taichi lang.",
+                "homepage": null,
                 "id": 637627011,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-12T08:59:10Z",
+                "open_issues": 38,
                 "owner": "wanmeihuali",
                 "repo": "taichi_3d_gaussian_splatting",
-                "stars": 754
+                "stars": 754,
+                "topics": [
+                  "3d-reconstruction",
+                  "3d-rendering",
+                  "computer-graphics",
+                  "computer-vision",
+                  "machine-learning",
+                  "nerf",
+                  "python",
+                  "pytorch",
+                  "real-time-rendering",
+                  "taichi"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -99,12 +154,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 732708386,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-25T10:36:59Z",
+                "open_issues": 6,
                 "owner": "uc-vision",
                 "repo": "taichi-splatting",
-                "stars": 120
+                "stars": 120,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -115,12 +175,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2025 Oral] On Scaling Up 3D Gaussian Splatting Training",
+                "homepage": null,
                 "id": 728471394,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-09-24T18:38:26Z",
+                "open_issues": 36,
                 "owner": "nyu-systems",
                 "repo": "Grendel-GS",
-                "stars": 681
+                "stars": 681,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -131,12 +196,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build 3D Gaussian Splatting from scratch with NVIDIA Warp in Python — CPU/GPU compatible, with a clean and minimalist design focused on learning modern graphics.",
+                "homepage": null,
                 "id": 813181415,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-09-28T13:11:25Z",
+                "open_issues": 0,
                 "owner": "guoriyue",
                 "repo": "3dgs-warp-scratch",
-                "stars": 284
+                "stars": 284,
+                "topics": [
+                  "3dgs",
+                  "build-from-scratch",
+                  "cuda",
+                  "graphics",
+                  "nerf",
+                  "nvidia-warp",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -147,12 +225,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "few-shot gaussian splatting pipeline",
+                "homepage": null,
                 "id": 1200692880,
                 "language": "Python",
+                "license": "Unlicense",
                 "last_commit": "2026-05-10T18:59:17Z",
+                "open_issues": 0,
                 "owner": "Asus-Monitor",
                 "repo": "ri3d-impl",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "3d-gaussian-splatting",
+                  "3dgs",
+                  "gaussian-splatting",
+                  "nerf",
+                  "neural-rendering"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -163,12 +252,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unofficial implementation of 3D Gaussian Splatting in PyTorch + CUDA with MIT license",
+                "homepage": null,
                 "id": 745697813,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-19T17:42:23Z",
+                "open_issues": 9,
                 "owner": "joeyan",
                 "repo": "gaussian_splatting",
-                "stars": 236
+                "stars": 236,
+                "topics": [
+                  "3d-reconstruction",
+                  "gaussian-splatting",
+                  "novel-view-synthesis"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -179,12 +277,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unofficial implementation of 3D Gaussian Splatting in PyTorch + CUDA with MIT license",
+                "homepage": null,
                 "id": 745697813,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-19T17:42:23Z",
+                "open_issues": 9,
                 "owner": "joeyan",
                 "repo": "gaussian_splatting",
-                "stars": 236
+                "stars": 236,
+                "topics": [
+                  "3d-reconstruction",
+                  "gaussian-splatting",
+                  "novel-view-synthesis"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -195,12 +302,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation for 3d gaussian splatting",
+                "homepage": null,
                 "id": 653697786,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-10-25T06:05:28Z",
+                "open_issues": 6,
                 "owner": "WangFeng18",
                 "repo": "3d-gaussian-splatting",
-                "stars": 370
+                "stars": 370,
+                "topics": [
+                  "gaussian-splatting",
+                  "nerf",
+                  "pytorch",
+                  "real-time-rendering"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -211,12 +328,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An attempt on implementing 3D gaussian splatting",
+                "homepage": null,
                 "id": 641176255,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2023-07-27T12:51:37Z",
+                "open_issues": 3,
                 "owner": "heheyas",
                 "repo": "gaussian_splatting_3d",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -227,12 +349,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My Modification to vanilla 3D Gaussians",
+                "homepage": null,
                 "id": 730734096,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-03-26T07:30:21Z",
+                "open_issues": 1,
                 "owner": "ingra14m",
                 "repo": "My-exp-Gaussian",
-                "stars": 125
+                "stars": 125,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -243,12 +370,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains programs for reconstructing 3D space using OpenSfM and Gaussian Splatting techniques. It allows users to generate point clouds from images captured by a 360-degree camera using OpenSfM, and then train Gaussian Splatting models using the generated point clouds.",
+                "homepage": null,
                 "id": 735599529,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-09-29T10:20:58Z",
+                "open_issues": 0,
                 "owner": "inuex35",
                 "repo": "360-gaussian-splatting",
-                "stars": 225
+                "stars": 225,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -259,12 +391,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A 2D Gaussian Splatting paper for no obvious reasons. Enjoy!",
+                "homepage": null,
                 "id": 706121470,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2025-03-03T23:32:46Z",
+                "open_issues": 5,
                 "owner": "OutofAi",
                 "repo": "2D-Gaussian-Splatting",
-                "stars": 454
+                "stars": 454,
+                "topics": [
+                  "2d-gaussian-splatting",
+                  "gaussian-kernel",
+                  "gaussian-splatting",
+                  "jupyter-notebook",
+                  "python",
+                  "pytorch",
+                  "pytorch-implementation"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -275,12 +420,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of applying neural style transfer on 3D Gaussian Splatting from style images.",
+                "homepage": null,
                 "id": 783006797,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-09T20:05:25Z",
+                "open_issues": 1,
                 "owner": "An-u-rag",
                 "repo": "stylized-gaussian-splatting",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             }
@@ -298,12 +448,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Modular Framework for 3D Gaussian Splatting and Beyond",
+                "homepage": null,
                 "id": 732426323,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2025-11-05T08:26:09Z",
+                "open_issues": 34,
                 "owner": "GAP-LAB-CUHK-SZ",
                 "repo": "gaustudio",
-                "stars": 1762
+                "stars": 1762,
+                "topics": [
+                  "3d-reconstruction",
+                  "3dgs",
+                  "gaussian-splatting",
+                  "multi-view-reconstruction",
+                  "nerf",
+                  "pytorch",
+                  "surface-reconstruction"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -314,12 +477,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A 3DGS framework for omni urban scene reconstruction and simulation.",
+                "homepage": "https://ziyc.github.io/omnire/",
                 "id": 849128566,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-08-27T08:42:40Z",
+                "open_issues": 55,
                 "owner": "ziyc",
                 "repo": "drivestudio",
-                "stars": 1254
+                "stars": 1254,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -330,12 +498,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A 3D Gaussian Splatting framework with various derived algorithms and an interactive web viewer",
+                "homepage": null,
                 "id": 701366603,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-25T13:10:03Z",
+                "open_issues": 32,
                 "owner": "yzslab",
                 "repo": "gaussian-splatting-lightning",
-                "stars": 1102
+                "stars": 1102,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -346,12 +519,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A differentiable point-based rendering framework.",
+                "homepage": null,
                 "id": 825238733,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-31T07:19:53Z",
+                "open_issues": 5,
                 "owner": "pointrix-project",
                 "repo": "pointrix",
-                "stars": 218
+                "stars": 218,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -362,12 +540,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modular differential gaussian rasterization library.",
+                "homepage": null,
                 "id": 766527133,
                 "language": "Cuda",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-28T09:03:04Z",
+                "open_issues": 3,
                 "owner": "pointrix-project",
                 "repo": "msplat",
-                "stars": 217
+                "stars": 217,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -378,12 +561,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open-source framework for Gaussian Splats Compression research",
+                "homepage": null,
                 "id": 865226071,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-13T06:39:12Z",
+                "open_issues": 1,
                 "owner": "JasonLSC",
                 "repo": "GSCodec_Studio",
-                "stars": 139
+                "stars": 139,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             }
@@ -407,12 +595,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF",
+                "homepage": "https://playcanvas.com",
                 "id": 19696006,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T21:34:28Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T02:18:45Z",
+                "open_issues": 531,
                 "owner": "playcanvas",
                 "repo": "engine",
-                "stars": 16576
+                "stars": 16577,
+                "topics": [
+                  "3d-gaussian-splatting",
+                  "3dgs",
+                  "game-development",
+                  "game-engine",
+                  "gamedev",
+                  "gaussian-splatting",
+                  "gltf",
+                  "hacktoberfest",
+                  "javascript",
+                  "nodejs",
+                  "playcanvas",
+                  "typescript",
+                  "virtual-reality",
+                  "webgl",
+                  "webgl2",
+                  "webgpu",
+                  "webxr"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -423,12 +634,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Toy Gaussian Splatting visualization in Unity",
+                "homepage": null,
                 "id": 682723630,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2025-10-17T07:21:38Z",
+                "open_issues": 43,
                 "owner": "aras-p",
                 "repo": "UnityGaussianSplatting",
-                "stars": 3393
+                "stars": 3393,
+                "topics": [
+                  "gaussian-splatting",
+                  "unity"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -439,12 +658,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Unreal Engine 5 (UE5) based plugin aiming to provide real-time visulization, management, editing, and scalable hybrid rendering of Guassian Splatting model.",
+                "homepage": null,
                 "id": 724410269,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-30T02:58:10Z",
+                "open_issues": 100,
                 "owner": "xverse-engine",
                 "repo": "XScene-UEPlugin",
-                "stars": 1122
+                "stars": 1123,
+                "topics": [
+                  "computer-graphics",
+                  "computer-vision",
+                  "radiance-field",
+                  "unreal-engine-5"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -455,12 +684,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Unity package for rendering 3D Gaussian Splatting.",
+                "homepage": null,
                 "id": 1052098254,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-02T09:17:19Z",
+                "open_issues": 14,
                 "owner": "wuyize25",
                 "repo": "gsplat-unity",
-                "stars": 275
+                "stars": 275,
+                "topics": [
+                  "3d-gaussian-splatting",
+                  "3dgs",
+                  "gaussian-splatting",
+                  "unity"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -471,12 +710,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[GDGS] A real-time 3D Gaussian Splatting (3DGS) rendering plugin for the Godot Engine. Godot引擎的实时3DGS渲染插件",
+                "homepage": null,
                 "id": 1178198582,
                 "language": "GDScript",
+                "license": "MIT",
                 "last_commit": "2026-08-25T16:04:09Z",
+                "open_issues": 2,
                 "owner": "ReconWorldLab",
                 "repo": "godot-gaussian-splatting",
-                "stars": 273
+                "stars": 273,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -487,12 +731,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A high-performance Unreal Engine 5 (UE5) plugin developed by MaLanShan Audio & Video Laboratory, designed for real-time visualization, management, and scalable rendering of 3D Gaussian Splatting (3DGS) and dynamic Volumetric Video (4DGS).",
+                "homepage": "https://mls4dlive.cn/",
                 "id": 1153190904,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T08:34:19Z",
+                "open_issues": 3,
                 "owner": "mlslabs",
                 "repo": "MLSLabsGaussianSplattingRenderer-UE",
-                "stars": 264
+                "stars": 264,
+                "topics": [
+                  "3dgs",
+                  "4dgs",
+                  "computer-graphics",
+                  "computer-vision",
+                  "gaussian-splatting",
+                  "radiance-field",
+                  "ue5",
+                  "unreal-engine",
+                  "volumetric-video"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -503,12 +762,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Unity package for rendering and playing dynamic gaussian splatting sequences.",
+                "homepage": null,
                 "id": 1052130269,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2025-12-27T10:14:21Z",
+                "open_issues": 4,
                 "owner": "HiFi-Human",
                 "repo": "DynGsplat-unity",
-                "stars": 107
+                "stars": 107,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             }
@@ -526,12 +790,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WebGL 3D Gaussian Splat Viewer",
+                "homepage": "https://antimatter15.com/splat/",
                 "id": 689836886,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-11-16T20:20:59Z",
+                "open_issues": 37,
                 "owner": "antimatter15",
                 "repo": "splat",
-                "stars": 3066
+                "stars": 3066,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -542,12 +811,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Three.js-based implementation of 3D Gaussian splatting",
+                "homepage": null,
                 "id": 696550253,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-10-19T22:58:20Z",
+                "open_issues": 97,
                 "owner": "mkkellogg",
                 "repo": "GaussianSplats3D",
-                "stars": 2874
+                "stars": 2875,
+                "topics": [
+                  "3d-gaussian-splatting",
+                  "gaussian-splatting",
+                  "javascript",
+                  "three-js",
+                  "threejs",
+                  "webgl"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -558,12 +839,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JavaScript Gaussian Splatting library.",
+                "homepage": null,
                 "id": 713114206,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-26T10:32:43Z",
+                "open_issues": 42,
                 "owner": "huggingface",
                 "repo": "gsplat.js",
-                "stars": 1660
+                "stars": 1660,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -574,12 +860,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gauzilla: a 3D Gaussian Splatting renderer written in Rust for WebAssembly with lock-free multithreading",
+                "homepage": null,
                 "id": 731921936,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-05-23T07:17:08Z",
+                "open_issues": 0,
                 "owner": "BladeTransformerLLC",
                 "repo": "gauzilla",
-                "stars": 636
+                "stars": 636,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -590,12 +881,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "3D Gaussian Splatting Renderer for WebGL",
+                "homepage": "https://webgl-gaussian-splatting.vercel.app",
                 "id": 707386470,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-03-21T04:02:53Z",
+                "open_issues": 5,
                 "owner": "kishimisu",
                 "repo": "Gaussian-Splatting-WebGL",
-                "stars": 270
+                "stars": 270,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -606,12 +902,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A-Frame component implementation of the 3D Gaussian splat viewer",
+                "homepage": null,
                 "id": 697798305,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-12-20T20:24:48Z",
+                "open_issues": 9,
                 "owner": "quadjr",
                 "repo": "aframe-gaussian-splatting",
-                "stars": 227
+                "stars": 227,
+                "topics": [
+                  "aframe",
+                  "aframe-component",
+                  "gaussian-splatting",
+                  "vr",
+                  "webgl",
+                  "webvr"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -622,12 +930,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "video splat",
+                "homepage": "http://antimatter15.com/splaTV/",
                 "id": 746096646,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-03-26T07:26:11Z",
+                "open_issues": 5,
                 "owner": "antimatter15",
                 "repo": "splaTV",
-                "stars": 171
+                "stars": 171,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -638,12 +951,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 687704604,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-09-09T20:22:40Z",
+                "open_issues": 5,
                 "owner": "dylanebert",
                 "repo": "gaussian-viewer",
-                "stars": 133
+                "stars": 133,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -654,12 +972,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "3D Model Viewer supporting glTF and 3D Gaussian Splats",
+                "homepage": "https://playcanvas.com/viewer",
                 "id": 279338189,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-13T15:46:41Z",
+                "open_issues": 19,
                 "owner": "playcanvas",
                 "repo": "model-viewer",
-                "stars": 706
+                "stars": 706,
+                "topics": [
+                  "3d-gaussian-splatting",
+                  "gaussian-splatting",
+                  "gltf",
+                  "javascript",
+                  "pcui",
+                  "playcanvas",
+                  "typescript",
+                  "webgl"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -670,12 +1002,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 681649525,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-13T18:06:45Z",
+                "open_issues": 12,
                 "owner": "cvlab-epfl",
                 "repo": "gaussian-splatting-web",
-                "stars": 667
+                "stars": 667,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -686,12 +1023,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "User-friendly, high-performance viewer for 3D Gaussian splats",
+                "homepage": "https://superspl.at",
                 "id": 954602512,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T14:56:16Z",
+                "open_issues": 34,
                 "owner": "playcanvas",
                 "repo": "supersplat-viewer",
-                "stars": 546
+                "stars": 546,
+                "topics": [
+                  "3d-gaussian-splatting",
+                  "gaussian-splatting",
+                  "playcanvas",
+                  "webgl",
+                  "webxr"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -702,12 +1050,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "3D Gaussian Splatting Renderer implemented in WebGPU (WGPU) and Rust",
+                "homepage": "https://web-splat.niedermayr.dev",
                 "id": 694863685,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-31T15:08:25Z",
+                "open_issues": 14,
                 "owner": "KeKsBoTer",
                 "repo": "web-splat",
-                "stars": 295
+                "stars": 295,
+                "topics": [
+                  "gaussian",
+                  "graphics",
+                  "nerf",
+                  "rust",
+                  "web",
+                  "webgpu",
+                  "wgpu"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -718,12 +1079,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://splatting.marcussvensson.com",
                 "id": 680832587,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-06-25T21:53:36Z",
+                "open_issues": 7,
                 "owner": "MarcusAndreasSvensson",
                 "repo": "gaussian-splatting-webgpu",
-                "stars": 91
+                "stars": 91,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             }
@@ -741,12 +1107,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web-based 3D visualization in Python",
+                "homepage": "https://viser.studio/main",
                 "id": 566568196,
                 "language": "Python",
-                "last_commit": "2026-08-27T15:17:42Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T04:12:05Z",
+                "open_issues": 114,
                 "owner": "viser-project",
                 "repo": "viser",
-                "stars": 2751
+                "stars": 2751,
+                "topics": [
+                  "python",
+                  "visualization",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -757,12 +1132,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Full python interactive 3D Gaussian Splatting viewer for real-time editing and analyzing.",
+                "homepage": null,
                 "id": 759851892,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-20T14:07:22Z",
+                "open_issues": 12,
                 "owner": "Florian-Barthel",
                 "repo": "splatviz",
-                "stars": 1548
+                "stars": 1548,
+                "topics": [
+                  "3d-gaussian-splatting",
+                  "3dgs",
+                  "analyzing",
+                  "imgui",
+                  "interactive",
+                  "python",
+                  "real-time-editing",
+                  "viewer"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -773,12 +1162,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " A cross-platform, high performance renderer for Gaussian Splatting using Vulkan Compute. Supports Windows, Linux, macOS, iOS, and visionOS ",
+                "homepage": null,
                 "id": 757771740,
                 "language": "C++",
+                "license": "LGPL-2.1",
                 "last_commit": "2025-05-19T22:25:35Z",
+                "open_issues": 16,
                 "owner": "shg8",
                 "repo": "3DGS.cpp",
-                "stars": 781
+                "stars": 781,
+                "topics": [
+                  "3d-gaussian-splatting",
+                  "3dgs",
+                  "gaussian-splatting",
+                  "ios",
+                  "nerf",
+                  "neural-rendering",
+                  "radiance-field",
+                  "visionos",
+                  "vulkan"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -789,12 +1193,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tiny Gaussian Splatting Viewer",
+                "homepage": null,
                 "id": 701169533,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-06-11T06:41:04Z",
+                "open_issues": 15,
                 "owner": "limacv",
                 "repo": "GaussianSplattingViewer",
-                "stars": 449
+                "stars": 449,
+                "topics": [
+                  "gaussian-splatting",
+                  "pyopengl",
+                  "rendering"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -805,12 +1218,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vulkan-based Gaussian Splatting viewer, and python binding",
+                "homepage": null,
                 "id": 773194739,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-07-17T05:19:02Z",
+                "open_issues": 3,
                 "owner": "jaesung-cs",
                 "repo": "vkgs",
-                "stars": 160
+                "stars": 160,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -821,12 +1239,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collaboration friendly studio for NeRFs",
+                "homepage": "https://docs.nerf.studio",
                 "id": 600143856,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-28T12:27:59Z",
+                "open_issues": 3,
                 "owner": "yzslab",
                 "repo": "nerfstudio",
-                "stars": 157
+                "stars": 157,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -837,12 +1260,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Original reference implementation of \"3D Gaussian Splatting for Real-Time Radiance Field Rendering\"",
+                "homepage": "https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/",
                 "id": 700378915,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-17T15:25:23Z",
+                "open_issues": 0,
                 "owner": "shumash",
                 "repo": "gaussian-splatting",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -853,12 +1281,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A viewer and other tools for the taichi-splatting rasterizer.",
+                "homepage": null,
                 "id": 738156760,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-06T02:24:22Z",
+                "open_issues": 0,
                 "owner": "uc-vision",
                 "repo": "splat-viewer",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -869,12 +1302,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LiteViz-GS: C++ based Lightweight Viewer for Gaussian Splatting",
+                "homepage": null,
                 "id": 993581443,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-06-15T04:26:00Z",
+                "open_issues": 0,
                 "owner": "panxkun",
                 "repo": "liteviz-gs",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "cpp",
+                  "gaussian-splatting",
+                  "opengl",
+                  "shaders",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -885,12 +1329,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A minimal GUI for 3DGS using DearPyGUI framework",
+                "homepage": null,
                 "id": 979584893,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-05-15T03:28:40Z",
+                "open_issues": 0,
                 "owner": "leviome",
                 "repo": "DearGaussianGUI",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             }
@@ -908,12 +1357,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "3DGS Render by KIRI Engine",
+                "homepage": "https://www.kiriengine.app",
                 "id": 863919080,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-28T11:26:58Z",
+                "open_issues": 2,
                 "owner": "Kiri-Innovation",
                 "repo": "3dgs-render-blender-addon",
-                "stars": 1160
+                "stars": 1160,
+                "topics": [
+                  "3d",
+                  "3dgs",
+                  "4dgs",
+                  "animation",
+                  "blender",
+                  "blender-addon",
+                  "gaussian-splatting",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -924,12 +1387,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://www.lingosub.com",
                 "id": 681639567,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-08-30T14:32:18Z",
+                "open_issues": 31,
                 "owner": "ReshotAI",
                 "repo": "gaussian-splatting-blender-addon",
-                "stars": 587
+                "stars": 587,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -940,12 +1408,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Toy iOS + Metal AR Gaussian Splat Renderer",
+                "homepage": "https://labs.laan.com",
                 "id": 693309504,
                 "language": "Swift",
+                "license": "NOASSERTION",
                 "last_commit": "2023-10-22T12:23:09Z",
+                "open_issues": 8,
                 "owner": "laanlabs",
                 "repo": "metal-splats",
-                "stars": 363
+                "stars": 363,
+                "topics": [
+                  "3d",
+                  "3d-reconstruction",
+                  "3d-scanning",
+                  "gaussian-splatting",
+                  "nerf",
+                  "neural-radiance-fields"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -956,12 +1436,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Online ROS2-Based Gaussian Splatting-Enabled Visualizer",
+                "homepage": null,
                 "id": 921676948,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-18T17:56:45Z",
+                "open_issues": 0,
                 "owner": "shadygm",
                 "repo": "ROSplat",
-                "stars": 260
+                "stars": 260,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -972,12 +1457,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A 3d gaussian splatting renderer in C++ and OpenGL",
+                "homepage": null,
                 "id": 696524673,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2024-10-16T16:19:29Z",
+                "open_issues": 7,
                 "owner": "hyperlogic",
                 "repo": "splatapult",
-                "stars": 231
+                "stars": 231,
+                "topics": [
+                  "3d-gaussian-splat",
+                  "3d-gaussian-splatting",
+                  "3d-graphics",
+                  "3d-reconstuction",
+                  "gaussian-splatting",
+                  "opengl",
+                  "opengl-es",
+                  "openxr",
+                  "photogrammetry",
+                  "rendering",
+                  "virtual-reality",
+                  "vr"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -988,12 +1491,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Gaussian Splat renderer for Houdini's viewport",
+                "homepage": null,
                 "id": 801797269,
                 "language": "C",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-08-07T17:49:56Z",
+                "open_issues": 0,
                 "owner": "rubendhz",
                 "repo": "houdini-gsplat-renderer",
-                "stars": 120
+                "stars": 120,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -1004,12 +1512,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Blender add-on for 404-GEN 3D generator  running on Bittensor",
+                "homepage": "https://404.xyz/",
                 "id": 803458977,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-05-22T16:22:33Z",
+                "open_issues": 0,
                 "owner": "404-Repo",
                 "repo": "404-gen-blender-add-on",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "3d",
+                  "bittensor",
+                  "generative-ai"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -1020,12 +1537,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Turn a video into an explorable 3D Gaussian Splat — fully local on Apple Silicon",
+                "homepage": "https://michael-l-i.github.io/splat-local/",
                 "id": 1287928192,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T05:08:44Z",
+                "open_issues": 0,
                 "owner": "michael-L-i",
                 "repo": "splat-local",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "3d-gaussian-splatting",
+                  "3d-reconstruction",
+                  "3dgs",
+                  "apple-silicon",
+                  "colmap",
+                  "computer-vision",
+                  "gaussian-splatting",
+                  "macos",
+                  "metal",
+                  "photogrammetry",
+                  "radiance-fields",
+                  "video-to-3d"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             }
@@ -1049,12 +1584,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CLI tool and library for 3D Gaussian splat processing and conversion",
+                "homepage": "https://playcanvas.com",
                 "id": 905829672,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-25T13:18:00Z",
+                "open_issues": 27,
                 "owner": "playcanvas",
                 "repo": "splat-transform",
-                "stars": 1302
+                "stars": 1302,
+                "topics": [
+                  "3d-gaussian-splatting",
+                  "3dgs",
+                  "cli",
+                  "gaussian-splatting",
+                  "playcanvas",
+                  "supersplat",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -1065,12 +1613,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python command-line utility for converting and processing 3D Gaussian Splatting models. Supports N-to-N conversion between 3DGS (.ply), KSplat, SOG, SPZ, Splat, CloudCompare, Parquet, and Compressed PLY. Includes GPU-accelerated filtering (SOR, Density).",
+                "homepage": null,
                 "id": 711218525,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-01T10:35:12Z",
+                "open_issues": 0,
                 "owner": "francescofugazzi",
                 "repo": "3dgsconverter",
-                "stars": 594
+                "stars": 594,
+                "topics": [
+                  "3dgs",
+                  "cloudcompare",
+                  "gaussian-splatting",
+                  "ksplat",
+                  "nerf",
+                  "photogrammetry",
+                  "ply",
+                  "point-cloud",
+                  "pointcloud",
+                  "radiance-field",
+                  "sog",
+                  "spatial-computing",
+                  "splat",
+                  "spz"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -1081,12 +1649,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "kapture is a file format as well as a set of tools for manipulating datasets, and in particular Visual Localization and Structure from Motion data.",
+                "homepage": null,
                 "id": 275164995,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-04-17T09:46:26Z",
+                "open_issues": 0,
                 "owner": "naver",
                 "repo": "kapture",
-                "stars": 542
+                "stars": 542,
+                "topics": [
+                  "colmap",
+                  "image-retrieval",
+                  "localization",
+                  "r2d2",
+                  "sfm",
+                  "structure-from-motion",
+                  "visual-features",
+                  "visual-localization"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -1097,12 +1679,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a cross-platform command-line tool for converting 3DGS (3D Gaussian Splatting) files, supporting conversions like PLY to .splat, PLY to .spx, PLY to .spz, PLY to .sog, and vice versa.",
+                "homepage": null,
                 "id": 796486918,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-18T11:28:51Z",
+                "open_issues": 2,
                 "owner": "gotoeasy",
                 "repo": "gsbox",
-                "stars": 194
+                "stars": 194,
+                "topics": [
+                  "3dgs",
+                  "3dgs-lod",
+                  "3dgs-simplify",
+                  "gaussian-splatting",
+                  "glb",
+                  "ply",
+                  "ply2glb",
+                  "ply2sog",
+                  "ply2splat",
+                  "ply2spz",
+                  "sog",
+                  "sog2spz",
+                  "splat",
+                  "splat2spz",
+                  "spx",
+                  "spx2splat",
+                  "spx2spz",
+                  "spz",
+                  "spz2ply",
+                  "spz2splat"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -1113,12 +1721,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A high-performance Gaussian Splatting format conversion library that supports lossless conversion between multiple mainstream formats.",
+                "homepage": "https://www.3dgsviewers.com/",
                 "id": 1119348624,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-25T01:17:33Z",
+                "open_issues": 3,
                 "owner": "3dgscloud",
                 "repo": "GaussForge",
-                "stars": 62
+                "stars": 62,
+                "topics": [
+                  "3dgs",
+                  "gaussian-processes",
+                  "guassian"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -1129,12 +1746,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Factor graph refinement of VGGT feed-forward 3D reconstruction",
+                "homepage": null,
                 "id": 1226614903,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-06-16T07:11:28Z",
+                "open_issues": 1,
                 "owner": "jashshah999",
                 "repo": "vggt-factor-refinement",
-                "stars": 51
+                "stars": 51,
+                "topics": [
+                  "3d-reconstruction",
+                  "colmap",
+                  "factor-graph",
+                  "gaussian-splatting",
+                  "nerfstudio",
+                  "slam",
+                  "structure-from-motion",
+                  "vggt"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -1145,12 +1776,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Miscellaneous tools for point cloud file manipulation",
+                "homepage": null,
                 "id": 713436908,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-28T17:43:42Z",
+                "open_issues": 1,
                 "owner": "SpectacularAI",
                 "repo": "point-cloud-tools",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -1161,12 +1797,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The in Browser running Point cloud Editor allows you to edit, crop, translate, rotate and export any Point cloud files with a userfriendly Interface",
+                "homepage": "https://www.panoton.de/tools/pointcloud-editor",
                 "id": 793611547,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2024-10-12T17:38:00Z",
+                "open_issues": 1,
                 "owner": "JohannesKrueger",
                 "repo": "pointcloudeditor",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -1177,12 +1818,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "File format for 3D Gaussian splats. About 10x smaller than the PLY equivalent with virtually no perceptible loss in visual quality. Offered as open source by Niantic Labs. More details at https://scaniverse.com/spz #3dgaussiansplats #gaussiansplatting",
+                "homepage": "https://scaniverse.com",
                 "id": 917870128,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-01-16T20:24:32Z",
+                "open_issues": 0,
                 "owner": "stytim",
                 "repo": "spz",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -1193,12 +1839,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Register Gaussian splats: align & merge two 3DGS scans into one SE(3)/Sim(3) frame — classical, learned, or zero-shot (BUFFER-X) seeds + splat-native refine. pip install splatreg.",
+                "homepage": "https://archerkattri.github.io/splatreg/",
                 "id": 1260804203,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-07-25T01:42:23Z",
+                "open_issues": 0,
                 "owner": "Archerkattri",
                 "repo": "splatreg",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "3dgs",
+                  "gaussian-splatting",
+                  "point-cloud-registration",
+                  "pytorch",
+                  "registration",
+                  "se3",
+                  "sim3"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -1209,12 +1868,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AURA — Adaptive Unified Radiance Asset: the post-3DGS asset layer. Typed carriers (Gaussian/Beta), calibrated + certified per-carrier confidence exported in KHR_gaussian_splatting & OpenUSD 26.03, unified ray-query, relight preview.",
+                "homepage": null,
                 "id": 1272356083,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-25T01:10:07Z",
+                "open_issues": 0,
                 "owner": "Archerkattri",
                 "repo": "aura",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "3d-reconstruction",
+                  "3dgs",
+                  "conformal-prediction",
+                  "gaussian-splatting",
+                  "gltf",
+                  "openusd",
+                  "pytorch",
+                  "radiance-fields",
+                  "research"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             }
@@ -1232,12 +1906,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "3D Gaussian Splat Editor",
+                "homepage": "https://superspl.at/editor",
                 "id": 707265118,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T10:31:03Z",
+                "open_issues": 107,
                 "owner": "playcanvas",
                 "repo": "supersplat",
-                "stars": 9916
+                "stars": 9918,
+                "topics": [
+                  "3d-gaussian-splatting",
+                  "3dgs",
+                  "gaussian-splatting",
+                  "pcui",
+                  "playcanvas",
+                  "typescript",
+                  "webgl",
+                  "webgpu"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -1248,12 +1936,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gaussian Splatting Operators for SideFX Houdini",
+                "homepage": "www.cgnomads.com",
                 "id": 721310349,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-14T18:10:58Z",
+                "open_issues": 0,
                 "owner": "cgnomads",
                 "repo": "GSOPs",
-                "stars": 619
+                "stars": 619,
+                "topics": [
+                  "3dgs",
+                  "gaussiansplatting",
+                  "houdini"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -1264,12 +1961,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official repository for camorph, a python toolbox for converting various camera parameter conventions. ",
+                "homepage": null,
                 "id": 592306963,
                 "language": "Python",
+                "license": "BSD-3-Clause-Clear",
                 "last_commit": "2025-07-10T15:16:01Z",
+                "open_issues": 3,
                 "owner": "Fraunhofer-IIS",
                 "repo": "camorph",
-                "stars": 118
+                "stars": 118,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             }
@@ -1293,12 +1995,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Three.js-based implementation of 3D Gaussian splatting",
+                "homepage": null,
                 "id": 696550253,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-10-19T22:58:20Z",
+                "open_issues": 97,
                 "owner": "mkkellogg",
                 "repo": "GaussianSplats3D",
-                "stars": 2874
+                "stars": 2875,
+                "topics": [
+                  "3d-gaussian-splatting",
+                  "gaussian-splatting",
+                  "javascript",
+                  "three-js",
+                  "threejs",
+                  "webgl"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -1309,12 +2023,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A detailed formulae explanation on gaussian splatting",
+                "homepage": "https://youtube.com/live/1buFrKUaqwM",
                 "id": 714523905,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-11-12T14:16:18Z",
+                "open_issues": 0,
                 "owner": "kwea123",
                 "repo": "gaussian_splatting_notes",
-                "stars": 603
+                "stars": 603,
+                "topics": [
+                  "cuda",
+                  "gaussian-splatting"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -1325,12 +2047,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unofficial implementation of 3D Gaussian Splatting in PyTorch + CUDA with MIT license",
+                "homepage": null,
                 "id": 745697813,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-19T17:42:23Z",
+                "open_issues": 9,
                 "owner": "joeyan",
                 "repo": "gaussian_splatting",
-                "stars": 236
+                "stars": 236,
+                "topics": [
+                  "3d-reconstruction",
+                  "gaussian-splatting",
+                  "novel-view-synthesis"
+                ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             },
@@ -1341,12 +2072,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A repository on how to understand the theory of 3D Gaussians Splatting",
+                "homepage": null,
                 "id": 713304725,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-11-16T04:45:01Z",
+                "open_issues": 1,
                 "owner": "chiehwangs",
                 "repo": "3d-gaussian-theory",
-                "stars": 139
+                "stars": 139,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
             }
@@ -1360,15 +2096,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:12:48.083Z",
+    "last_updated": "2026-08-29T04:17:54.271Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of papers and resources focused on 3D Gaussian Splatting, intended to keep pace with the anticipated surge of research in the coming months.",
+      "homepage": null,
       "id": 705222810,
       "language": "Python",
+      "license": "MIT",
       "last_commit": "2026-08-28T07:43:59Z",
+      "open_issues": 4,
       "owner": "MrNeRF",
       "repo": "awesome-3D-gaussian-splatting",
-      "stars": 8841
+      "stars": 8841,
+      "topics": [
+        "3d-gaussian-splatting",
+        "3dgs",
+        "gaussian-splatting",
+        "nerf",
+        "neural-rendering"
+      ]
     },
     "original_repository_sha": "be34eea50e52c1b9835fd53c6ed022ee0834d19c",
     "enhanced_repository": "enhansome/enhansome-3D-gaussian-splatting",
