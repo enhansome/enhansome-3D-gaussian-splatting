@@ -21,7 +21,7 @@
                 "open_issues": 713,
                 "owner": "graphdeco-inria",
                 "repo": "gaussian-splatting",
-                "stars": 23735,
+                "stars": 23741,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -49,8 +49,8 @@
                 "id": 672651553,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-05T13:45:10Z",
-                "open_issues": 211,
+                "last_commit": "2026-09-06T13:15:46Z",
+                "open_issues": 213,
                 "owner": "MrNeRF",
                 "repo": "LichtFeld-Studio",
                 "stars": 3660,
@@ -80,7 +80,7 @@
                 "open_issues": 362,
                 "owner": "nerfstudio-project",
                 "repo": "gsplat",
-                "stars": 5633,
+                "stars": 5637,
                 "topics": [
                   "gaussian-splatting"
                 ]
@@ -621,11 +621,11 @@
                 "id": 19696006,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-05T12:23:59Z",
+                "last_commit": "2026-09-06T09:28:12Z",
                 "open_issues": 513,
                 "owner": "playcanvas",
                 "repo": "engine",
-                "stars": 16637,
+                "stars": 16644,
                 "topics": [
                   "3d-gaussian-splatting",
                   "3dgs",
@@ -700,6 +700,27 @@
             },
             {
               "node_type": "item",
+              "title": "Godot Plugin (gdgs)",
+              "description": "Real-time 3DGS rendering plugin for Godot 4.3+",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[GDGS] A real-time 3D Gaussian Splatting (3DGS) rendering plugin for the Godot Engine. Godot引擎的实时3DGS渲染插件",
+                "homepage": null,
+                "id": 1178198582,
+                "language": "GDScript",
+                "license": "MIT",
+                "last_commit": "2026-08-25T16:04:09Z",
+                "open_issues": 1,
+                "owner": "ReconWorldLab",
+                "repo": "godot-gaussian-splatting",
+                "stars": 276,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:12:48.083Z"
+            },
+            {
+              "node_type": "item",
               "title": "Unity Plugin (gsplat-unity)",
               "description": null,
               "children": [],
@@ -726,27 +747,6 @@
             },
             {
               "node_type": "item",
-              "title": "Godot Plugin (gdgs)",
-              "description": "Real-time 3DGS rendering plugin for Godot 4.3+",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[GDGS] A real-time 3D Gaussian Splatting (3DGS) rendering plugin for the Godot Engine. Godot引擎的实时3DGS渲染插件",
-                "homepage": null,
-                "id": 1178198582,
-                "language": "GDScript",
-                "license": "MIT",
-                "last_commit": "2026-08-25T16:04:09Z",
-                "open_issues": 1,
-                "owner": "ReconWorldLab",
-                "repo": "godot-gaussian-splatting",
-                "stars": 275,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T22:12:48.083Z"
-            },
-            {
-              "node_type": "item",
               "title": "Unreal Plugin (MLSLabsGaussianSplattingRenderer-UE)",
               "description": null,
               "children": [],
@@ -761,7 +761,7 @@
                 "open_issues": 3,
                 "owner": "mlslabs",
                 "repo": "MLSLabsGaussianSplattingRenderer-UE",
-                "stars": 264,
+                "stars": 265,
                 "topics": [
                   "3dgs",
                   "4dgs",
@@ -820,7 +820,7 @@
                 "open_issues": 37,
                 "owner": "antimatter15",
                 "repo": "splat",
-                "stars": 3071,
+                "stars": 3070,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
@@ -869,7 +869,7 @@
                 "open_issues": 42,
                 "owner": "huggingface",
                 "repo": "gsplat.js",
-                "stars": 1662,
+                "stars": 1663,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
@@ -1053,7 +1053,7 @@
                 "open_issues": 33,
                 "owner": "playcanvas",
                 "repo": "supersplat-viewer",
-                "stars": 550,
+                "stars": 552,
                 "topics": [
                   "3d-gaussian-splatting",
                   "gaussian-splatting",
@@ -1137,7 +1137,7 @@
                 "open_issues": 111,
                 "owner": "viser-project",
                 "repo": "viser",
-                "stars": 2765,
+                "stars": 2768,
                 "topics": [
                   "python",
                   "visualization",
@@ -1192,7 +1192,7 @@
                 "open_issues": 16,
                 "owner": "shg8",
                 "repo": "3DGS.cpp",
-                "stars": 783,
+                "stars": 782,
                 "topics": [
                   "3d-gaussian-splatting",
                   "3dgs",
@@ -1387,7 +1387,7 @@
                 "open_issues": 10,
                 "owner": "Kiri-Innovation",
                 "repo": "3dgs-render-blender-addon",
-                "stars": 1185,
+                "stars": 1188,
                 "topics": [
                   "3d",
                   "3dgs",
@@ -1614,7 +1614,7 @@
                 "open_issues": 29,
                 "owner": "playcanvas",
                 "repo": "splat-transform",
-                "stars": 1308,
+                "stars": 1311,
                 "topics": [
                   "3d-gaussian-splatting",
                   "3dgs",
@@ -1855,6 +1855,46 @@
             },
             {
               "node_type": "item",
+              "title": "Open Reality",
+              "description": "Phone video to a 3D scene (VGGT-SLAM based, splat export with optional gsplat refinement) that an AI assistant can query over MCP: measurements, floor and wall planes, path planning, object list, robot-training exports; self-hostable",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open Reality: phone video to AI-queryable 3D scenes. MCP tools for Claude/Codex/Cursor (npm openreality-mcp), the self-hostable broker, and the VGGT-SLAM library, in one repo. BSD-2-Clause.",
+                "homepage": "https://open-reality.io/mcp",
+                "id": 1353278725,
+                "language": "Python",
+                "license": "BSD-2-Clause",
+                "last_commit": "2026-09-03T19:47:33Z",
+                "open_issues": 5,
+                "owner": "reality-opened",
+                "repo": "openreality",
+                "stars": 17,
+                "topics": [
+                  "3d",
+                  "3d-reconstruction",
+                  "claude",
+                  "claude-code",
+                  "codex",
+                  "cordis",
+                  "cursor",
+                  "gaussian-splatting",
+                  "isaac-sim",
+                  "lerobot",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "photogrammetry",
+                  "robotics",
+                  "slam",
+                  "spatial-ai",
+                  "vggt"
+                ]
+              },
+              "first_seen": "2026-09-04T16:14:52.953Z"
+            },
+            {
+              "node_type": "item",
               "title": "splatreg",
               "description": "pip-installable splat registration: align & merge two 3DGS scans into one SE(3)/Sim(3) frame (recovers scale), CLI + pure-PyTorch API, no manual gizmo",
               "children": [],
@@ -1881,46 +1921,6 @@
                 ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Open Reality",
-              "description": "Phone video to a 3D scene (VGGT-SLAM based, splat export with optional gsplat refinement) that an AI assistant can query over MCP: measurements, floor and wall planes, path planning, object list, robot-training exports; self-hostable",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Open Reality: phone video to AI-queryable 3D scenes. MCP tools for Claude/Codex/Cursor (npm openreality-mcp), the self-hostable broker, and the VGGT-SLAM library, in one repo. BSD-2-Clause.",
-                "homepage": "https://open-reality.io/mcp",
-                "id": 1353278725,
-                "language": "Python",
-                "license": "BSD-2-Clause",
-                "last_commit": "2026-09-03T19:47:33Z",
-                "open_issues": 5,
-                "owner": "reality-opened",
-                "repo": "openreality",
-                "stars": 12,
-                "topics": [
-                  "3d",
-                  "3d-reconstruction",
-                  "claude",
-                  "claude-code",
-                  "codex",
-                  "cordis",
-                  "cursor",
-                  "gaussian-splatting",
-                  "isaac-sim",
-                  "lerobot",
-                  "mcp",
-                  "mcp-server",
-                  "model-context-protocol",
-                  "photogrammetry",
-                  "robotics",
-                  "slam",
-                  "spatial-ai",
-                  "vggt"
-                ]
-              },
-              "first_seen": "2026-09-04T16:14:52.953Z"
             },
             {
               "node_type": "item",
@@ -1973,10 +1973,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-04T09:26:47Z",
-                "open_issues": 107,
+                "open_issues": 109,
                 "owner": "playcanvas",
                 "repo": "supersplat",
-                "stars": 9948,
+                "stars": 9954,
                 "topics": [
                   "3d-gaussian-splatting",
                   "3dgs",
@@ -2006,7 +2006,7 @@
                 "open_issues": 0,
                 "owner": "cgnomads",
                 "repo": "GSOPs",
-                "stars": 620,
+                "stars": 621,
                 "topics": [
                   "3dgs",
                   "gaussiansplatting",
@@ -2166,8 +2166,8 @@
                 "id": 672651553,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-05T13:45:10Z",
-                "open_issues": 211,
+                "last_commit": "2026-09-06T13:15:46Z",
+                "open_issues": 213,
                 "owner": "MrNeRF",
                 "repo": "LichtFeld-Studio",
                 "stars": 3660,
@@ -2191,7 +2191,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T15:03:38.557Z",
+    "last_updated": "2026-09-06T15:22:50.309Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of papers and resources focused on 3D Gaussian Splatting, intended to keep pace with the anticipated surge of research in the coming months.",
@@ -2200,10 +2200,10 @@
       "language": "Python",
       "license": "MIT",
       "last_commit": "2026-09-03T21:49:29Z",
-      "open_issues": 4,
+      "open_issues": 5,
       "owner": "MrNeRF",
       "repo": "awesome-3D-gaussian-splatting",
-      "stars": 8862,
+      "stars": 8864,
       "topics": [
         "3d-gaussian-splatting",
         "3dgs",
