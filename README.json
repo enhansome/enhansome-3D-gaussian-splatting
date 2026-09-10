@@ -21,7 +21,7 @@
                 "open_issues": 713,
                 "owner": "graphdeco-inria",
                 "repo": "gaussian-splatting",
-                "stars": 23781,
+                "stars": 23789,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -49,11 +49,11 @@
                 "id": 672651553,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-09T16:23:44Z",
+                "last_commit": "2026-09-10T15:57:45Z",
                 "open_issues": 214,
                 "owner": "MrNeRF",
                 "repo": "LichtFeld-Studio",
-                "stars": 3673,
+                "stars": 3676,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -80,7 +80,7 @@
                 "open_issues": 363,
                 "owner": "nerfstudio-project",
                 "repo": "gsplat",
-                "stars": 5656,
+                "stars": 5661,
                 "topics": [
                   "gaussian-splatting"
                 ]
@@ -446,7 +446,7 @@
                 "id": 1315133342,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-21T06:45:52Z",
+                "last_commit": "2026-09-10T14:31:11Z",
                 "open_issues": 0,
                 "owner": "Chi-Blaze-B",
                 "repo": "3D-Gaussian-Splatting-Reconstruction",
@@ -621,11 +621,11 @@
                 "id": 19696006,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-09T15:29:13Z",
-                "open_issues": 501,
+                "last_commit": "2026-09-10T15:56:53Z",
+                "open_issues": 498,
                 "owner": "playcanvas",
                 "repo": "engine",
-                "stars": 16688,
+                "stars": 16694,
                 "topics": [
                   "3d-gaussian-splatting",
                   "3dgs",
@@ -664,7 +664,7 @@
                 "open_issues": 43,
                 "owner": "aras-p",
                 "repo": "UnityGaussianSplatting",
-                "stars": 3399,
+                "stars": 3400,
                 "topics": [
                   "gaussian-splatting",
                   "unity"
@@ -714,7 +714,7 @@
                 "open_issues": 2,
                 "owner": "ReconWorldLab",
                 "repo": "godot-gaussian-splatting",
-                "stars": 277,
+                "stars": 278,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
@@ -820,7 +820,7 @@
                 "open_issues": 37,
                 "owner": "antimatter15",
                 "repo": "splat",
-                "stars": 3071,
+                "stars": 3070,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
@@ -890,7 +890,7 @@
                 "open_issues": 0,
                 "owner": "BladeTransformerLLC",
                 "repo": "gauzilla",
-                "stars": 638,
+                "stars": 639,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
@@ -1053,7 +1053,7 @@
                 "open_issues": 33,
                 "owner": "playcanvas",
                 "repo": "supersplat-viewer",
-                "stars": 557,
+                "stars": 558,
                 "topics": [
                   "3d-gaussian-splatting",
                   "gaussian-splatting",
@@ -1133,8 +1133,8 @@
                 "id": 566568196,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T11:41:13Z",
-                "open_issues": 113,
+                "last_commit": "2026-09-10T06:06:50Z",
+                "open_issues": 111,
                 "owner": "viser-project",
                 "repo": "viser",
                 "stars": 2770,
@@ -1387,7 +1387,7 @@
                 "open_issues": 10,
                 "owner": "Kiri-Innovation",
                 "repo": "3dgs-render-blender-addon",
-                "stars": 1193,
+                "stars": 1192,
                 "topics": [
                   "3d",
                   "3dgs",
@@ -1462,8 +1462,8 @@
                 "id": 921676948,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-18T17:56:45Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-10T08:24:26Z",
+                "open_issues": 1,
                 "owner": "shadygm",
                 "repo": "ROSplat",
                 "stars": 260,
@@ -1614,7 +1614,7 @@
                 "open_issues": 27,
                 "owner": "playcanvas",
                 "repo": "splat-transform",
-                "stars": 1314,
+                "stars": 1315,
                 "topics": [
                   "3d-gaussian-splatting",
                   "3dgs",
@@ -1706,7 +1706,7 @@
                 "language": "Go",
                 "license": "GPL-3.0",
                 "last_commit": "2026-06-18T11:28:51Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "gotoeasy",
                 "repo": "gsbox",
                 "stars": 194,
@@ -1762,6 +1762,46 @@
             },
             {
               "node_type": "item",
+              "title": "Open Reality",
+              "description": "Phone video to a 3D scene (VGGT-SLAM based, splat export with optional gsplat refinement) that an AI assistant can query over MCP: measurements, floor and wall planes, path planning, object list, robot-training exports; self-hostable",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open Reality: phone video to AI-queryable 3D scenes. MCP tools for Claude/Codex/Cursor (npm openreality-mcp), the self-hostable broker, and the VGGT-SLAM library, in one repo. BSD-2-Clause.",
+                "homepage": "https://open-reality.io/mcp",
+                "id": 1353278725,
+                "language": "Python",
+                "license": "BSD-2-Clause",
+                "last_commit": "2026-09-03T19:47:33Z",
+                "open_issues": 5,
+                "owner": "reality-opened",
+                "repo": "openreality",
+                "stars": 54,
+                "topics": [
+                  "3d",
+                  "3d-reconstruction",
+                  "claude",
+                  "claude-code",
+                  "codex",
+                  "cordis",
+                  "cursor",
+                  "gaussian-splatting",
+                  "isaac-sim",
+                  "lerobot",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "photogrammetry",
+                  "robotics",
+                  "slam",
+                  "spatial-ai",
+                  "vggt"
+                ]
+              },
+              "first_seen": "2026-09-04T16:14:52.953Z"
+            },
+            {
+              "node_type": "item",
               "title": "VGGT Factor Refinement",
               "description": "COLMAP-free pipeline using VGGT + factor graph, from video to COLMAP-format output",
               "children": [],
@@ -1789,46 +1829,6 @@
                 ]
               },
               "first_seen": "2026-08-28T22:12:48.083Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Open Reality",
-              "description": "Phone video to a 3D scene (VGGT-SLAM based, splat export with optional gsplat refinement) that an AI assistant can query over MCP: measurements, floor and wall planes, path planning, object list, robot-training exports; self-hostable",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Open Reality: phone video to AI-queryable 3D scenes. MCP tools for Claude/Codex/Cursor (npm openreality-mcp), the self-hostable broker, and the VGGT-SLAM library, in one repo. BSD-2-Clause.",
-                "homepage": "https://open-reality.io/mcp",
-                "id": 1353278725,
-                "language": "Python",
-                "license": "BSD-2-Clause",
-                "last_commit": "2026-09-03T19:47:33Z",
-                "open_issues": 5,
-                "owner": "reality-opened",
-                "repo": "openreality",
-                "stars": 49,
-                "topics": [
-                  "3d",
-                  "3d-reconstruction",
-                  "claude",
-                  "claude-code",
-                  "codex",
-                  "cordis",
-                  "cursor",
-                  "gaussian-splatting",
-                  "isaac-sim",
-                  "lerobot",
-                  "mcp",
-                  "mcp-server",
-                  "model-context-protocol",
-                  "photogrammetry",
-                  "robotics",
-                  "slam",
-                  "spatial-ai",
-                  "vggt"
-                ]
-              },
-              "first_seen": "2026-09-04T16:14:52.953Z"
             },
             {
               "node_type": "item",
@@ -1972,11 +1972,11 @@
                 "id": 707265118,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-09T12:32:23Z",
+                "last_commit": "2026-09-10T14:28:02Z",
                 "open_issues": 111,
                 "owner": "playcanvas",
                 "repo": "supersplat",
-                "stars": 9992,
+                "stars": 10001,
                 "topics": [
                   "3d-gaussian-splatting",
                   "3dgs",
@@ -2166,11 +2166,11 @@
                 "id": 672651553,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-09T16:23:44Z",
+                "last_commit": "2026-09-10T15:57:45Z",
                 "open_issues": 214,
                 "owner": "MrNeRF",
                 "repo": "LichtFeld-Studio",
-                "stars": 3673,
+                "stars": 3676,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -2191,7 +2191,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T16:30:21.929Z",
+    "last_updated": "2026-09-10T16:17:55.884Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of papers and resources focused on 3D Gaussian Splatting, intended to keep pace with the anticipated surge of research in the coming months.",
