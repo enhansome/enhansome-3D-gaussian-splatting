@@ -21,7 +21,7 @@
                 "open_issues": 714,
                 "owner": "graphdeco-inria",
                 "repo": "gaussian-splatting",
-                "stars": 24035,
+                "stars": 24048,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -49,11 +49,11 @@
                 "id": 672651553,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-29T17:57:57Z",
-                "open_issues": 233,
+                "last_commit": "2026-09-30T17:57:21Z",
+                "open_issues": 235,
                 "owner": "MrNeRF",
                 "repo": "LichtFeld-Studio",
-                "stars": 3785,
+                "stars": 3794,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -446,7 +446,7 @@
                 "id": 1315133342,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-27T10:05:52Z",
+                "last_commit": "2026-09-30T14:25:51Z",
                 "open_issues": 0,
                 "owner": "Chi-Blaze-B",
                 "repo": "3D-Gaussian-Splatting-Reconstruction",
@@ -467,7 +467,7 @@
                 "id": 1360653645,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-27T16:42:57Z",
+                "last_commit": "2026-09-29T19:29:23Z",
                 "open_issues": 1,
                 "owner": "tchauffi",
                 "repo": "metalsplat",
@@ -499,7 +499,7 @@
                 "open_issues": 34,
                 "owner": "GAP-LAB-CUHK-SZ",
                 "repo": "gaustudio",
-                "stars": 1759,
+                "stars": 1760,
                 "topics": [
                   "3d-reconstruction",
                   "3dgs",
@@ -642,11 +642,11 @@
                 "id": 19696006,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-29T15:24:17Z",
-                "open_issues": 456,
+                "last_commit": "2026-09-30T15:57:48Z",
+                "open_issues": 455,
                 "owner": "playcanvas",
                 "repo": "engine",
-                "stars": 16952,
+                "stars": 16956,
                 "topics": [
                   "3d-gaussian-splatting",
                   "3dgs",
@@ -685,7 +685,7 @@
                 "open_issues": 43,
                 "owner": "aras-p",
                 "repo": "UnityGaussianSplatting",
-                "stars": 3418,
+                "stars": 3419,
                 "topics": [
                   "gaussian-splatting",
                   "unity"
@@ -782,7 +782,7 @@
                 "open_issues": 5,
                 "owner": "mlslabs",
                 "repo": "MLSLabsGaussianSplattingRenderer-UE",
-                "stars": 273,
+                "stars": 274,
                 "topics": [
                   "3dgs",
                   "4dgs",
@@ -862,7 +862,7 @@
                 "open_issues": 97,
                 "owner": "mkkellogg",
                 "repo": "GaussianSplats3D",
-                "stars": 2901,
+                "stars": 2905,
                 "topics": [
                   "3d-gaussian-splatting",
                   "gaussian-splatting",
@@ -1074,7 +1074,7 @@
                 "open_issues": 34,
                 "owner": "playcanvas",
                 "repo": "supersplat-viewer",
-                "stars": 580,
+                "stars": 579,
                 "topics": [
                   "3d-gaussian-splatting",
                   "gaussian-splatting",
@@ -1158,7 +1158,7 @@
                 "open_issues": 111,
                 "owner": "viser-project",
                 "repo": "viser",
-                "stars": 2797,
+                "stars": 2799,
                 "topics": [
                   "python",
                   "visualization",
@@ -1635,7 +1635,7 @@
                 "open_issues": 29,
                 "owner": "playcanvas",
                 "repo": "splat-transform",
-                "stars": 1345,
+                "stars": 1347,
                 "topics": [
                   "3d-gaussian-splatting",
                   "3dgs",
@@ -1772,7 +1772,7 @@
                 "open_issues": 5,
                 "owner": "reality-opened",
                 "repo": "openreality",
-                "stars": 146,
+                "stars": 161,
                 "topics": [
                   "3d",
                   "3d-reconstruction",
@@ -1997,7 +1997,7 @@
                 "open_issues": 112,
                 "owner": "playcanvas",
                 "repo": "supersplat",
-                "stars": 10282,
+                "stars": 10287,
                 "topics": [
                   "3d-gaussian-splatting",
                   "3dgs",
@@ -2023,11 +2023,11 @@
                 "id": 721310349,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-14T18:10:58Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-30T15:42:39Z",
+                "open_issues": 1,
                 "owner": "cgnomads",
                 "repo": "GSOPs",
-                "stars": 626,
+                "stars": 627,
                 "topics": [
                   "3dgs",
                   "gaussiansplatting",
@@ -2086,7 +2086,7 @@
                 "open_issues": 97,
                 "owner": "mkkellogg",
                 "repo": "GaussianSplats3D",
-                "stars": 2901,
+                "stars": 2905,
                 "topics": [
                   "3d-gaussian-splatting",
                   "gaussian-splatting",
@@ -2187,11 +2187,11 @@
                 "id": 672651553,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-29T17:57:57Z",
-                "open_issues": 233,
+                "last_commit": "2026-09-30T17:57:21Z",
+                "open_issues": 235,
                 "owner": "MrNeRF",
                 "repo": "LichtFeld-Studio",
-                "stars": 3785,
+                "stars": 3794,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -2212,7 +2212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T18:01:33.262Z",
+    "last_updated": "2026-09-30T17:57:22.892Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of papers and resources focused on 3D Gaussian Splatting, intended to keep pace with the anticipated surge of research in the coming months.",
@@ -2224,7 +2224,7 @@
       "open_issues": 6,
       "owner": "MrNeRF",
       "repo": "awesome-3D-gaussian-splatting",
-      "stars": 8911,
+      "stars": 8915,
       "topics": [
         "3d-gaussian-splatting",
         "3dgs",
