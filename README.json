@@ -21,7 +21,7 @@
                 "open_issues": 716,
                 "owner": "graphdeco-inria",
                 "repo": "gaussian-splatting",
-                "stars": 24066,
+                "stars": 24069,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -49,11 +49,11 @@
                 "id": 672651553,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T17:28:36Z",
-                "open_issues": 239,
+                "last_commit": "2026-10-03T04:19:50Z",
+                "open_issues": 224,
                 "owner": "MrNeRF",
                 "repo": "LichtFeld-Studio",
-                "stars": 3795,
+                "stars": 3801,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -99,7 +99,7 @@
                 "id": 747402960,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-16T17:41:03Z",
+                "last_commit": "2026-10-02T20:55:11Z",
                 "open_issues": 13,
                 "owner": "WebODM",
                 "repo": "OpenSplat",
@@ -248,7 +248,7 @@
             {
               "node_type": "item",
               "title": "gaussian_splatting",
-              "description": null,
+              "description": "joeyan/gaussian_splatting",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -273,7 +273,7 @@
             {
               "node_type": "item",
               "title": "Readable implementation with a written derivation of the math",
-              "description": null,
+              "description": "joeyan/gaussian_splatting",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -633,7 +633,7 @@
             {
               "node_type": "item",
               "title": "PlayCanvas Engine",
-              "description": null,
+              "description": "playcanvas/engine",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -642,11 +642,11 @@
                 "id": 19696006,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T15:25:45Z",
+                "last_commit": "2026-10-03T02:23:24Z",
                 "open_issues": 455,
                 "owner": "playcanvas",
                 "repo": "engine",
-                "stars": 16968,
+                "stars": 16973,
                 "topics": [
                   "3d-gaussian-splatting",
                   "3dgs",
@@ -672,7 +672,7 @@
             {
               "node_type": "item",
               "title": "Unity Plugin",
-              "description": null,
+              "description": "aras-p/UnityGaussianSplatting",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -696,7 +696,7 @@
             {
               "node_type": "item",
               "title": "Unreal Plugin (XScene-UEPlugin)",
-              "description": null,
+              "description": "xverse-engine/XScene-UEPlugin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -743,7 +743,7 @@
             {
               "node_type": "item",
               "title": "Unity Plugin (gsplat-unity)",
-              "description": null,
+              "description": "wuyize25/gsplat-unity",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -769,7 +769,7 @@
             {
               "node_type": "item",
               "title": "Unreal Plugin (MLSLabsGaussianSplattingRenderer-UE)",
-              "description": null,
+              "description": "mlslabs/MLSLabsGaussianSplattingRenderer-UE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -828,7 +828,7 @@
             {
               "node_type": "item",
               "title": "Splat Viewer",
-              "description": null,
+              "description": "antimatter15/splat",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -849,7 +849,7 @@
             {
               "node_type": "item",
               "title": "GaussianSplats3D",
-              "description": null,
+              "description": "mkkellogg/GaussianSplats3D",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -877,7 +877,7 @@
             {
               "node_type": "item",
               "title": "gsplat.js",
-              "description": null,
+              "description": "huggingface/gsplat.js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -898,7 +898,7 @@
             {
               "node_type": "item",
               "title": "Gauzilla",
-              "description": null,
+              "description": "BladeTransformerLLC/gauzilla",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -919,7 +919,7 @@
             {
               "node_type": "item",
               "title": "Interactive Viewer",
-              "description": null,
+              "description": "kishimisu/Gaussian-Splatting-WebGL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -940,7 +940,7 @@
             {
               "node_type": "item",
               "title": "A-Frame",
-              "description": null,
+              "description": "quadjr/aframe-gaussian-splatting",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -989,7 +989,7 @@
             {
               "node_type": "item",
               "title": "WebRTC viewer",
-              "description": null,
+              "description": "dylanebert/gaussian-viewer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1040,7 +1040,7 @@
             {
               "node_type": "item",
               "title": "EPFL Viewer",
-              "description": null,
+              "description": "cvlab-epfl/gaussian-splatting-web",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1088,7 +1088,7 @@
             {
               "node_type": "item",
               "title": "WebGPU Splat",
-              "description": null,
+              "description": "KeKsBoTer/web-splat",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1117,7 +1117,7 @@
             {
               "node_type": "item",
               "title": "gaussian-splatting-webgpu",
-              "description": null,
+              "description": "MarcusAndreasSvensson/gaussian-splatting-webgpu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1145,7 +1145,7 @@
             {
               "node_type": "item",
               "title": "Nerfstudio Viser",
-              "description": null,
+              "description": "viser-project/viser",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1155,7 +1155,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-25T04:53:28Z",
-                "open_issues": 111,
+                "open_issues": 112,
                 "owner": "viser-project",
                 "repo": "viser",
                 "stars": 2803,
@@ -1277,7 +1277,7 @@
             {
               "node_type": "item",
               "title": "Nerfstudio (gaussian_splatting branch)",
-              "description": null,
+              "description": "yzslab/nerfstudio",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1298,7 +1298,7 @@
             {
               "node_type": "item",
               "title": "Jupyter notebook viewer",
-              "description": null,
+              "description": "shumash/gaussian-splatting",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1340,7 +1340,7 @@
             {
               "node_type": "item",
               "title": "LiteViz-GS",
-              "description": null,
+              "description": "panxkun/liteviz-gs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1367,7 +1367,7 @@
             {
               "node_type": "item",
               "title": "DearGaussianGUI",
-              "description": null,
+              "description": "leviome/DearGaussianGUI",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1395,7 +1395,7 @@
             {
               "node_type": "item",
               "title": "Blender Add-on (KIRI)",
-              "description": null,
+              "description": "Kiri-Innovation/3dgs-render-blender-addon",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1425,7 +1425,7 @@
             {
               "node_type": "item",
               "title": "Blender Add-on",
-              "description": null,
+              "description": "ReshotAI/gaussian-splatting-blender-addon",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1446,7 +1446,7 @@
             {
               "node_type": "item",
               "title": "iOS Metal Viewer",
-              "description": null,
+              "description": "laanlabs/metal-splats",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1474,7 +1474,7 @@
             {
               "node_type": "item",
               "title": "ROS2 Support",
-              "description": null,
+              "description": "shadygm/ROSplat",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1495,7 +1495,7 @@
             {
               "node_type": "item",
               "title": "VR Support (OpenXR)",
-              "description": null,
+              "description": "hyperlogic/splatapult",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1550,7 +1550,7 @@
             {
               "node_type": "item",
               "title": "Blender Add-on (404—GEN)",
-              "description": null,
+              "description": "404-Repo/404-gen-blender-add-on",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1772,7 +1772,7 @@
                 "open_issues": 5,
                 "owner": "reality-opened",
                 "repo": "openreality",
-                "stars": 188,
+                "stars": 193,
                 "topics": [
                   "3d",
                   "3d-reconstruction",
@@ -1997,7 +1997,7 @@
                 "open_issues": 115,
                 "owner": "playcanvas",
                 "repo": "supersplat",
-                "stars": 10292,
+                "stars": 10294,
                 "topics": [
                   "3d-gaussian-splatting",
                   "3dgs",
@@ -2073,7 +2073,7 @@
             {
               "node_type": "item",
               "title": "Discussion about gs universal format",
-              "description": null,
+              "description": "mkkellogg/GaussianSplats3D",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2125,7 +2125,7 @@
             {
               "node_type": "item",
               "title": "Mathematical details of forward and backward passes",
-              "description": null,
+              "description": "joeyan/gaussian_splatting",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2187,11 +2187,11 @@
                 "id": 672651553,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T17:28:36Z",
-                "open_issues": 239,
+                "last_commit": "2026-10-03T04:19:50Z",
+                "open_issues": 224,
                 "owner": "MrNeRF",
                 "repo": "LichtFeld-Studio",
-                "stars": 3795,
+                "stars": 3801,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -2212,7 +2212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T17:48:35.034Z",
+    "last_updated": "2026-10-03T04:20:57.343Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of papers and resources focused on 3D Gaussian Splatting, intended to keep pace with the anticipated surge of research in the coming months.",
