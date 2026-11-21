@@ -36,15 +36,15 @@ Visit our comprehensive, searchable database of 3D Gaussian Splatting papers:
 
 ### Official Reference
 
-* [Original Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting) ⭐ 24,516 | 🐛 721 | 🌐 Python | 📅 2025-10-17 - The reference implementation by the original authors
+* [Original Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting) ⭐ 24,518 | 🐛 721 | 🌐 Python | 📅 2025-10-17 - The reference implementation by the original authors
 
 ### Community Implementations
 
 | Implementation                                                                                                                                        | Language       | License    | Description                                                                                                                                                                 |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [LichtFeld Studio](https://github.com/MrNeRF/LichtFeld-Studio) ⭐ 4,014 \| 🐛 260 \| 🌐 C++ \| 📅 2026-11-20 ([lichtfeld.io](https://lichtfeld.io))    | C++/CUDA       | GPL-3.0    | The modular workstation for 3D Gaussian Splatting — train, inspect, edit, automate, and export from a single native app                                                     |
-| [Nerfstudio gsplat](https://github.com/nerfstudio-project/gsplat) ⭐ 5,925 \| 🐛 405 \| 🌐 Python \| 📅 2026-09-19                                     | Python/CUDA    | Apache-2.0 | Integration with Nerfstudio                                                                                                                                                 |
-| [OpenSplat](https://github.com/pierotofy/OpenSplat) ⭐ 2,268 \| 🐛 15 \| 🌐 C++ \| 📅 2026-10-29                                                       | C++/CPU/GPU    | AGPL-3.0   | Cross-platform solution                                                                                                                                                     |
+| [LichtFeld Studio](https://github.com/MrNeRF/LichtFeld-Studio) ⭐ 4,016 \| 🐛 246 \| 🌐 C++ \| 📅 2026-11-21 ([lichtfeld.io](https://lichtfeld.io))    | C++/CUDA       | GPL-3.0    | The modular workstation for 3D Gaussian Splatting — train, inspect, edit, automate, and export from a single native app                                                     |
+| [Nerfstudio gsplat](https://github.com/nerfstudio-project/gsplat) ⭐ 5,926 \| 🐛 405 \| 🌐 Python \| 📅 2026-09-19                                     | Python/CUDA    | Apache-2.0 | Integration with Nerfstudio                                                                                                                                                 |
+| [OpenSplat](https://github.com/pierotofy/OpenSplat) ⭐ 2,270 \| 🐛 15 \| 🌐 C++ \| 📅 2026-10-29                                                       | C++/CPU/GPU    | AGPL-3.0   | Cross-platform solution                                                                                                                                                     |
 | [Taichi 3D GS](https://github.com/wanmeihuali/taichi_3d_gaussian_splatting) ⭐ 761 \| 🐛 38 \| 🌐 Jupyter Notebook \| 📅 2024-03-12                    | Taichi         | Apache-2.0 | Taichi-based implementation                                                                                                                                                 |
 | [taichi-splatting](https://github.com/uc-vision/taichi-splatting) ⭐ 122 \| 🐛 6 \| 🌐 Python \| 📅 2025-11-25                                         | Taichi/PyTorch | Apache-2.0 | Modular rasterizer for Taichi and PyTorch                                                                                                                                   |
 | [Grendel Distributed 3DGS](https://github.com/nyu-systems/Grendel-GS) ⭐ 692 \| 🐛 36 \| 🌐 Python \| 📅 2025-09-24                                    | Python/CUDA    | Apache-2.0 | Multi-GPU distributed training                                                                                                                                              |
@@ -63,7 +63,7 @@ Visit our comprehensive, searchable database of 3D Gaussian Splatting papers:
 ### Frameworks
 
 * [GauStudio](https://github.com/GAP-LAB-CUHK-SZ/gaustudio) ⭐ 1,768 | 🐛 34 | 🌐 Jupyter Notebook | 📅 2025-11-05 - Unified framework with multiple implementations
-* [DriveStudio](https://github.com/ziyc/drivestudio) ⭐ 1,292 | 🐛 57 | 🌐 Python | 📅 2025-08-27 - Urban scene reconstruction framework
+* [DriveStudio](https://github.com/ziyc/drivestudio) ⭐ 1,293 | 🐛 57 | 🌐 Python | 📅 2025-08-27 - Urban scene reconstruction framework
 * [gaussian-splatting-lightning](https://github.com/yzslab/gaussian-splatting-lightning) ⭐ 1,113 | 🐛 32 | 🌐 Jupyter Notebook | 📅 2026-05-25 - Derived algorithms plus an interactive web viewer
 * [msplat](https://github.com/pointrix-project/msplat) ⭐ 223 | 🐛 3 | 🌐 Cuda | 📅 2024-07-28 - Modular differential gaussian rasterization library
 * [Pointrix](https://github.com/pointrix-project/pointrix) ⭐ 220 | 🐛 5 | 🌐 Python | 📅 2025-03-31 - Differentiable point-based rendering
@@ -73,9 +73,9 @@ Visit our comprehensive, searchable database of 3D Gaussian Splatting papers:
 
 ### Game Engines
 
-* [PlayCanvas Engine](https://github.com/playcanvas/engine) ⭐ 17,336 | 🐛 505 | 🌐 JavaScript | 📅 2026-11-20
-* [Unity Plugin](https://github.com/aras-p/UnityGaussianSplatting) ⭐ 3,473 | 🐛 23 | 🌐 C# | 📅 2026-11-02
-* [Unreal Plugin (XScene-UEPlugin)](https://github.com/xverse-engine/XScene-UEPlugin) ⭐ 1,136 | 🐛 101 | 🌐 C++ | 📅 2025-07-30
+* [PlayCanvas Engine](https://github.com/playcanvas/engine) ⭐ 17,341 | 🐛 505 | 🌐 JavaScript | 📅 2026-11-20
+* [Unity Plugin](https://github.com/aras-p/UnityGaussianSplatting) ⭐ 3,475 | 🐛 23 | 🌐 C# | 📅 2026-11-02
+* [Unreal Plugin (XScene-UEPlugin)](https://github.com/xverse-engine/XScene-UEPlugin) ⭐ 1,138 | 🐛 101 | 🌐 C++ | 📅 2025-07-30
 * [Godot Plugin (gdgs)](https://github.com/ReconWorldLab/godot-gaussian-splatting) ⭐ 306 | 🐛 4 | 🌐 GDScript | 📅 2026-08-25 - Real-time 3DGS rendering plugin for Godot 4.3+
 * [Unreal Plugin (MLSLabsGaussianSplattingRenderer-UE)](https://github.com/mlslabs/MLSLabsGaussianSplattingRenderer-UE) ⭐ 290 | 🐛 2 | 🌐 C | 📅 2026-10-29
 * [Unity Plugin (gsplat-unity)](https://github.com/wuyize25/gsplat-unity) ⭐ 287 | 🐛 17 | 🌐 C# | 📅 2026-08-02
@@ -86,26 +86,26 @@ Visit our comprehensive, searchable database of 3D Gaussian Splatting papers:
 **WebGL**
 
 * [Splat Viewer](https://github.com/antimatter15/splat) ⭐ 3,091 | 🐛 38 | 🌐 JavaScript | 📅 2025-11-16
-* [GaussianSplats3D](https://github.com/mkkellogg/GaussianSplats3D) ⭐ 2,975 | 🐛 94 | 🌐 JavaScript | 📅 2025-10-19
+* [GaussianSplats3D](https://github.com/mkkellogg/GaussianSplats3D) ⭐ 2,976 | 🐛 94 | 🌐 JavaScript | 📅 2025-10-19
 * [gsplat.js](https://github.com/huggingface/gsplat.js) ⭐ 1,676 | 🐛 43 | 🌐 TypeScript | 📅 2026-09-24
 * [Gauzilla](https://github.com/BladeTransformerLLC/gauzilla) ⭐ 651 | 🐛 0 | 🌐 JavaScript | 📅 2025-05-23
 * [Interactive Viewer](https://github.com/kishimisu/Gaussian-Splatting-WebGL) ⭐ 273 | 🐛 5 | 🌐 JavaScript | 📅 2024-03-21
 * [A-Frame](https://github.com/quadjr/aframe-gaussian-splatting) ⭐ 228 | 🐛 9 | 🌐 JavaScript | 📅 2023-12-20
-* [splaTV](https://github.com/antimatter15/splaTV) ⭐ 173 | 🐛 5 | 🌐 JavaScript | 📅 2024-03-26 - Viewer for 4D Gaussians, with a [live demo](http://antimatter15.com/splaTV/)
+* [splaTV](https://github.com/antimatter15/splaTV) ⭐ 174 | 🐛 5 | 🌐 JavaScript | 📅 2024-03-26 - Viewer for 4D Gaussians, with a [live demo](http://antimatter15.com/splaTV/)
 * [WebRTC viewer](https://github.com/dylanebert/gaussian-viewer) ⭐ 135 | 🐛 5 | 🌐 Python | 📅 2023-09-09
 
 **WebGPU**
 
 * [PlayCanvas Model Viewer](https://github.com/playcanvas/model-viewer) ⭐ 713 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-06 - Viewer for glTF and 3DGS assets
 * [EPFL Viewer](https://github.com/cvlab-epfl/gaussian-splatting-web) ⭐ 671 | 🐛 12 | 🌐 TypeScript | 📅 2024-03-13
-* [SuperSplat Viewer](https://github.com/playcanvas/supersplat-viewer) ⭐ 628 | 🐛 37 | 🌐 TypeScript | 📅 2026-11-17 - High-performance splat viewer
+* [SuperSplat Viewer](https://github.com/playcanvas/supersplat-viewer) ⭐ 629 | 🐛 37 | 🌐 TypeScript | 📅 2026-11-17 - High-performance splat viewer
 * [WebGPU Splat](https://github.com/KeKsBoTer/web-splat) ⭐ 314 | 🐛 14 | 🌐 Rust | 📅 2026-10-23
 * [gaussian-splatting-webgpu](https://github.com/MarcusAndreasSvensson/gaussian-splatting-webgpu) ⭐ 94 | 🐛 7 | 🌐 TypeScript | 📅 2024-06-25
 
 ### Desktop Viewers
 
-* [Nerfstudio Viser](https://github.com/viser-project/viser) ⭐ 2,870 | 🐛 114 | 🌐 Python | 📅 2026-11-02
-* [splatviz](https://github.com/Florian-Barthel/splatviz) ⭐ 1,553 | 🐛 12 | 🌐 Python | 📅 2026-05-20 - Edit the rendering code at runtime or display multiple scenes at once
+* [Nerfstudio Viser](https://github.com/viser-project/viser) ⭐ 2,870 | 🐛 115 | 🌐 Python | 📅 2026-11-02
+* [splatviz](https://github.com/Florian-Barthel/splatviz) ⭐ 1,554 | 🐛 12 | 🌐 Python | 📅 2026-05-20 - Edit the rendering code at runtime or display multiple scenes at once
 * [3DGS.cpp](https://github.com/shg8/3DGS.cpp) ⭐ 791 | 🐛 16 | 🌐 C++ | 📅 2025-05-19 - C++/Vulkan renderer for Windows, macOS, Linux, iOS and visionOS
 * [OpenGL Viewer](https://github.com/limacv/GaussianSplattingViewer) ⭐ 451 | 🐛 15 | 🌐 Python | 📅 2024-06-11 - PyOpenGL viewer, also with official CUDA backend
 * [vkgs](https://github.com/jaesung-cs/vkgs) ⭐ 165 | 🐛 3 | 🌐 C++ | 📅 2026-11-07 - Cross-platform C++/Vulkan renderer
@@ -117,8 +117,8 @@ Visit our comprehensive, searchable database of 3D Gaussian Splatting papers:
 
 ### Native Applications
 
-* [Blender Add-on (KIRI)](https://github.com/Kiri-Innovation/3dgs-render-blender-addon) ⭐ 1,272 | 🐛 10 | 🌐 Python | 📅 2026-11-11
-* [Blender Add-on](https://github.com/ReshotAI/gaussian-splatting-blender-addon) ⭐ 593 | 🐛 31 | 🌐 Python | 📅 2024-08-30
+* [Blender Add-on (KIRI)](https://github.com/Kiri-Innovation/3dgs-render-blender-addon) ⭐ 1,273 | 🐛 10 | 🌐 Python | 📅 2026-11-11
+* [Blender Add-on](https://github.com/ReshotAI/gaussian-splatting-blender-addon) ⭐ 594 | 🐛 31 | 🌐 Python | 📅 2024-08-30
 * [iOS Metal Viewer](https://github.com/laanlabs/metal-splats) ⭐ 364 | 🐛 8 | 🌐 Swift | 📅 2023-10-22
 * [ROS2 Support](https://github.com/shadygm/ROSplat) ⭐ 263 | 🐛 6 | 🌐 Python | 📅 2026-11-19
 * [VR Support (OpenXR)](https://github.com/hyperlogic/splatapult) ⭐ 236 | 🐛 7 | 🌐 C++ | 📅 2024-10-16
@@ -130,11 +130,11 @@ Visit our comprehensive, searchable database of 3D Gaussian Splatting papers:
 
 ### Data Processing
 
-* [SplatTransform](https://github.com/playcanvas/splat-transform) ⭐ 1,448 | 🐛 29 | 🌐 TypeScript | 📅 2026-11-19 - CLI tool and Node/browser library for converting and editing splats, reads PLY, SOG, SPZ, SPLAT, KSPLAT and LCC/LCC2, writes PLY, SOG, SPZ, GLB, CSV, LOD and WebP
+* [SplatTransform](https://github.com/playcanvas/splat-transform) ⭐ 1,450 | 🐛 29 | 🌐 TypeScript | 📅 2026-11-19 - CLI tool and Node/browser library for converting and editing splats, reads PLY, SOG, SPZ, SPLAT, KSPLAT and LCC/LCC2, writes PLY, SOG, SPZ, GLB, CSV, LOD and WebP
 * [Open Reality](https://github.com/reality-opened/openreality) ⭐ 661 | 🐛 5 | 🌐 Python | 📅 2026-11-18 - Phone video to a 3D scene (VGGT-SLAM based, splat export with optional gsplat refinement) that an AI assistant can query over MCP: measurements, floor and wall planes, path planning, object list, robot-training exports; self-hostable
 * [3DGS Converter](https://github.com/francescofugazzi/3dgsconverter) ⭐ 605 | 🐛 0 | 🌐 Python | 📅 2026-08-01 - Format conversion tool
 * [Kapture](https://github.com/naver/kapture) ⭐ 546 | 🐛 0 | 🌐 Python | 📅 2026-11-18 - Unified data format for visual localization
-* [gsbox Converter](https://github.com/gotoeasy/gsbox) ⭐ 196 | 🐛 2 | 🌐 Go | 📅 2026-11-19 - PLY SPLAT SPZ SPX conversion tool
+* [gsbox Converter](https://github.com/gotoeasy/gsbox) ⭐ 196 | 🐛 2 | 🌐 Go | 📅 2026-11-21 - PLY SPLAT SPZ SPX conversion tool
 * [GaussForge](https://github.com/3dgscloud/GaussForge) ⭐ 73 | 🐛 3 | 🌐 C++ | 📅 2026-05-25 - C++/WASM-based conversion between PLY, SPZ, SPLAT, and KSPLAT
 * [VGGT Factor Refinement](https://github.com/jashshah999/vggt-factor-refinement) ⭐ 54 | 🐛 0 | 🌐 Python | 📅 2026-09-27 - COLMAP-free pipeline using VGGT + factor graph, from video to COLMAP-format output
 * [SpectacularAI](https://github.com/SpectacularAI/point-cloud-tools) ⭐ 48 | 🐛 1 | 🌐 Python | 📅 2026-03-28 - Conversion scripts for different 3DGS conventions
@@ -146,15 +146,15 @@ Visit our comprehensive, searchable database of 3D Gaussian Splatting papers:
 
 ### Development Tools
 
-* [SuperSplat](https://github.com/playcanvas/supersplat) ⭐ 10,694 | 🐛 117 | 🌐 TypeScript | 📅 2026-11-19 - Free, open source browser-based 3DGS editor with one-click publishing
-* [GSOPs for Houdini](https://github.com/cgnomads/GSOPs) ⭐ 634 | 🐛 0 | 🌐 Python | 📅 2026-10-11 - Houdini integration tools
+* [SuperSplat](https://github.com/playcanvas/supersplat) ⭐ 10,700 | 🐛 117 | 🌐 TypeScript | 📅 2026-11-19 - Free, open source browser-based 3DGS editor with one-click publishing
+* [GSOPs for Houdini](https://github.com/cgnomads/GSOPs) ⭐ 635 | 🐛 0 | 🌐 Python | 📅 2026-10-11 - Houdini integration tools
 * [camorph](https://github.com/Fraunhofer-IIS/camorph) ⭐ 120 | 🐛 3 | 🌐 Python | 📅 2025-07-10 - Camera parameter conversion
 
 ## Learning Resources
 
 ### Blog Posts
 
-* [Discussion about gs universal format](https://github.com/mkkellogg/GaussianSplats3D/issues/47#issuecomment-1801360116) ⭐ 2,975 | 🐛 94 | 🌐 JavaScript | 📅 2025-10-19
+* [Discussion about gs universal format](https://github.com/mkkellogg/GaussianSplats3D/issues/47#issuecomment-1801360116) ⭐ 2,976 | 🐛 94 | 🌐 JavaScript | 📅 2025-10-19
 * [Implementation Details](https://github.com/kwea123/gaussian_splatting_notes) ⭐ 606 | 🐛 0 | 📅 2023-11-12 - Technical deep dive
 * [Mathematical details of forward and backward passes](https://github.com/joeyan/gaussian_splatting/blob/main/MATH.md) ⭐ 244 | 🐛 8 | 🌐 Python | 📅 2026-11-16
 * [Mathematical Foundation](https://github.com/chiehwangs/3d-gaussian-theory) ⭐ 141 | 🐛 1 | 📅 2024-11-16 - Theory explanation
@@ -188,7 +188,7 @@ Visit our comprehensive, searchable database of 3D Gaussian Splatting papers:
 
 ### YouTube Channels
 
-* [LichtFeld Studio](https://www.youtube.com/@LichtFeldStudio) - Tutorials, release walkthroughs and dev updates for [LichtFeld Studio](https://github.com/MrNeRF/LichtFeld-Studio) ⭐ 4,014 | 🐛 260 | 🌐 C++ | 📅 2026-11-20
+* [LichtFeld Studio](https://www.youtube.com/@LichtFeldStudio) - Tutorials, release walkthroughs and dev updates for [LichtFeld Studio](https://github.com/MrNeRF/LichtFeld-Studio) ⭐ 4,016 | 🐛 246 | 🌐 C++ | 📅 2026-11-21
 
 ## Credits
 
@@ -199,4 +199,4 @@ Visit our comprehensive, searchable database of 3D Gaussian Splatting papers:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
